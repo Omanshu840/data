@@ -313,6 +313,146 @@
       "example": "Science saves lives—but compassion builds meaning."
     }
   ]
+},
+    {
+  "id": "task2-f7a15dee",
+  "taskType": "task2",
+  "question": "Some people think that art is an essential subject for children at school while others think it is a waste of time. Discuss both sides and give your opinion.",
+  "answer": "The inclusion of art in school curricula has long been a subject of debate. While some argue that it fosters creativity and emotional intelligence in children, others claim that it detracts from core academic subjects such as math and science. This essay will discuss both perspectives before concluding that art is a crucial element of a balanced education.\n\nSupporters of art education emphasize its role in nurturing creativity and emotional development. Art enables children to express themselves in non-verbal ways, boosting their self-esteem and imagination. For example, drawing or painting can help introverted students communicate emotions that they may struggle to verbalize. Additionally, exposure to art has been linked to improvements in problem-solving skills and lateral thinking, both of which are valuable in any discipline.\n\nOn the other hand, critics argue that school time is better spent on practical and measurable subjects. In a competitive world increasingly dominated by science and technology, skills in coding, mathematics, and literacy are often prioritized. They contend that artistic ability may not translate into viable career opportunities, and thus, investing heavily in art education may not be cost-effective for schools with limited resources.\n\nIn conclusion, while practical subjects are undeniably important, dismissing art as a waste of time undermines its substantial benefits in fostering emotional and cognitive development. Schools should aim for a well-rounded curriculum that values creativity alongside academic rigor, ensuring students grow into both capable and expressive individuals.",
+  "analysis": "This essay provides a balanced discussion with clear arguments on both sides and a strong personal opinion. The examples are relevant, the vocabulary is sophisticated, and the grammar structures are varied and accurate.",
+  "highlights": [
+    {
+      "text": "fosters creativity and emotional intelligence",
+      "type": "vocabulary",
+      "explanation": "Strong verb-noun collocations capturing personal development benefits.",
+      "example": "Group work fosters collaboration and empathy."
+    },
+    {
+      "text": "exposure to art has been linked to",
+      "type": "structure",
+      "explanation": "Passive structure introducing research-based support.",
+      "example": "Exposure to second languages has been linked to improved memory."
+    },
+    {
+      "text": "competitive world increasingly dominated by",
+      "type": "phrase",
+      "explanation": "Contextual phrase highlighting modern economic or career priorities.",
+      "example": "In a world increasingly dominated by automation, soft skills are gaining importance."
+    },
+    {
+      "text": "cost-effective for schools with limited resources",
+      "type": "phrase",
+      "explanation": "Common phrase discussing education budgeting concerns.",
+      "example": "E-learning platforms are often more cost-effective for schools with limited budgets."
+    },
+    {
+      "text": "well-rounded curriculum",
+      "type": "vocabulary",
+      "explanation": "Describes a balanced educational structure.",
+      "example": "A well-rounded curriculum should include science, arts, and ethics."
+    }
+  ]
+},
+    {
+  "id": "task2-f893b66e",
+  "taskType": "task2",
+  "question": "Artists need a certain amount of freedom to develop their creativity. Some people think that artists should have total freedom to express any thoughts and ideas. To what extent do you agree or disagree?",
+  "answer": "Freedom of expression is fundamental to the creative process. While some argue that artists should be granted total freedom to express any idea, others believe that there should be limits, especially when art intersects with politics, religion, or public morality. I partially agree with the idea of artistic freedom, but I also believe that it must be exercised with social responsibility.\n\nUnlimited freedom allows artists to challenge conventions and stimulate societal progress. History shows that groundbreaking movements—such as Dadaism or Surrealism—were born from unrestrained artistic expression. These forms of art questioned authority and reshaped perspectives, paving the way for cultural revolutions. Moreover, total freedom enables artists to reflect raw human emotions, which often resonate deeply with audiences.\n\nHowever, complete artistic freedom can also result in content that offends or polarizes society. Art that glorifies violence, promotes hate, or disrespects sacred beliefs can create unrest and division. For instance, controversial exhibits have sparked public outrage in various countries, prompting debates on the boundary between freedom and responsibility. Therefore, while censorship should be minimal, some ethical framework is necessary to ensure art remains constructive rather than disruptive.\n\nIn conclusion, although unrestricted artistic expression can fuel innovation and emotional depth, it must be tempered with a sense of accountability. A society that encourages creativity must also ensure that it does not come at the cost of public harmony. Artists should be free—but not at the expense of social unity.",
+  "analysis": "This essay presents a nuanced view with well-structured arguments supporting both artistic freedom and societal responsibility. It uses sophisticated vocabulary, smooth transitions, and rich examples to justify its stance. Sentence structures are varied and grammar is well controlled.",
+  "highlights": [
+    {
+      "text": "Freedom of expression is fundamental to the creative process",
+      "type": "phrase",
+      "explanation": "A high-level introductory phrase setting up the discussion clearly.",
+      "example": "Freedom of expression is fundamental to a functioning democracy."
+    },
+    {
+      "text": "stimulate societal progress",
+      "type": "vocabulary",
+      "explanation": "Describes art’s ability to positively influence culture and society.",
+      "example": "Education reform can stimulate societal progress."
+    },
+    {
+      "text": "questioned authority and reshaped perspectives",
+      "type": "phrase",
+      "explanation": "Powerful phrase showing art's role in challenging the status quo.",
+      "example": "The feminist movement questioned authority and reshaped societal norms."
+    },
+    {
+      "text": "resonate deeply with audiences",
+      "type": "vocabulary",
+      "explanation": "Common expression describing emotional impact.",
+      "example": "Honest storytelling tends to resonate deeply with audiences."
+    },
+    {
+      "text": "offends or polarizes society",
+      "type": "vocabulary",
+      "explanation": "Describes negative effects of unrestrained expression.",
+      "example": "Misinformation often offends or polarizes society."
+    },
+    {
+      "text": "censorship should be minimal",
+      "type": "phrase",
+      "explanation": "Conveys a balanced perspective without advocating total control.",
+      "example": "In a democratic society, censorship should be minimal but fair."
+    },
+    {
+      "text": "tempered with a sense of accountability",
+      "type": "structure",
+      "explanation": "Metaphoric expression showing balance between freedom and responsibility.",
+      "example": "Free speech must be tempered with a sense of accountability."
+    }
+  ]
+},
+{
+  "id": "task2-15b5c3c3",
+  "taskType": "task2",
+  "question": "Most artists earn low salaries and should therefore receive funding from the government in order for them to continue with their work. To what extent do you agree?",
+  "answer": "Artists play an essential role in enriching society, yet many struggle financially due to the unpredictable nature of their careers. Some argue that governments should provide funding to support these individuals. I strongly agree with this view, as government assistance can preserve cultural diversity and promote public engagement with the arts.\n\nOne major reason to support government funding for artists is the preservation of cultural heritage. Traditional forms of music, painting, and storytelling often survive only through the efforts of dedicated artists. Without financial support, many of these art forms risk extinction, especially in underfunded or rural communities. Public funding ensures that future generations have access to their cultural history and identity.\n\nMoreover, financial aid allows artists to focus on creativity rather than commercial viability. In the absence of funding, many artists are forced to abandon passion projects in favor of more marketable work. For example, experimental theater or independent cinema often struggles to attract private investment but thrives with state support. Government funding thus nurtures artistic innovation and contributes to a richer public cultural life.\n\nIn conclusion, supporting artists through government funding is not just an economic gesture—it is an investment in cultural continuity and innovation. By alleviating financial pressure, societies can empower artists to create freely and contribute meaningfully to collective identity and national pride.",
+  "analysis": "This response presents a clear argument in favor of public support for artists, supported by specific and persuasive examples. The language is formal, precise, and varied, and the structure follows a coherent and logical progression. A strong conclusion reinforces the main points with impact.",
+  "highlights": [
+    {
+      "text": "enriching society",
+      "type": "vocabulary",
+      "explanation": "Concise and powerful way to describe cultural contribution.",
+      "example": "Volunteers play a vital role in enriching society."
+    },
+    {
+      "text": "unpredictable nature of their careers",
+      "type": "phrase",
+      "explanation": "Describes job instability in a formal tone.",
+      "example": "Freelancers often struggle due to the unpredictable nature of their careers."
+    },
+    {
+      "text": "preservation of cultural heritage",
+      "type": "vocabulary",
+      "explanation": "Commonly used phrase in topics about tradition and history.",
+      "example": "Language is essential for the preservation of cultural heritage."
+    },
+    {
+      "text": "risk extinction",
+      "type": "phrase",
+      "explanation": "Describes the potential disappearance of art forms or traditions.",
+      "example": "Many minority languages risk extinction without intervention."
+    },
+    {
+      "text": "focus on creativity rather than commercial viability",
+      "type": "structure",
+      "explanation": "Balanced comparison highlighting core idea.",
+      "example": "Public broadcasting should focus on education rather than commercial viability."
+    },
+    {
+      "text": "contributes to a richer public cultural life",
+      "type": "phrase",
+      "explanation": "Formal phrase summarizing the benefit of funding art.",
+      "example": "Public parks contribute to a richer urban cultural life."
+    },
+    {
+      "text": "investment in cultural continuity and innovation",
+      "type": "vocabulary",
+      "explanation": "High-level phrase capturing both preservation and future value.",
+      "example": "Funding science is an investment in national progress and innovation."
+    }
+  ]
 }
-
 ]
