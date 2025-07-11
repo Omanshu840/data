@@ -214,6 +214,105 @@
       "example": "Learning a second language is not only useful but essential in today’s global world."
     }
   ]
+},
+    {
+  "id": "task2-3",
+  "taskType": "task2",
+  "question": "Art is considered an essential part of all cultures throughout the world. However, these days fewer and fewer people appreciate art and turn their focus to science, technology and business.",
+  "answer": "Art has long been regarded as a vital expression of culture, identity, and emotion across civilizations. However, in today’s fast-paced, result-driven world, an increasing number of people are shifting their attention away from artistic pursuits in favour of science, technology, and business. While this trend is understandable given the demands of modern economies, I believe the diminishing appreciation of art is a cultural loss that must be addressed.\n\nThe growing focus on science and technology is largely driven by economic and societal pressures. Modern education systems and job markets reward technical skills that lead to tangible outcomes such as innovation, productivity, and profit. For instance, students are often encouraged to pursue careers in software engineering, data science, or entrepreneurship because they offer better financial security than artistic fields. As a result, art is frequently perceived as a hobby rather than a viable career, leading to its marginalization in schools and public funding.\n\nNevertheless, the importance of art in maintaining cultural richness and emotional well-being cannot be overstated. Art connects people to their heritage, challenges perspectives, and fosters empathy—qualities that are essential for a healthy, balanced society. For example, street murals in Brazil or traditional music in West Africa continue to inspire community cohesion and identity. By neglecting art, societies risk losing not just beauty, but the human values and historical continuity that it embodies.\n\nIn conclusion, while the rise of science, technology, and business reflects modern priorities, the declining appreciation for art poses a significant cultural and emotional cost. Governments, educators, and communities must actively preserve and promote the arts to ensure that progress does not come at the expense of cultural identity and human connection. Art may not build bridges or write code, but it builds meaning—and that is equally vital.",
+  "analysis": "This essay thoroughly addresses the topic with a clear, well-argued thesis. It balances both sides of the issue, using specific examples and high-level vocabulary. Cohesion is smooth, with natural transitions and sentence variation. The conclusion delivers a strong emotional appeal and call to action, rounding off a highly effective response.",
+  "highlights": [
+    {
+      "text": "vital expression of culture, identity, and emotion",
+      "type": "phrase",
+      "explanation": "A rich phrase showing art's multi-dimensional importance.",
+      "example": "Language is a vital expression of culture and thought."
+    },
+    {
+      "text": "fast-paced, result-driven world",
+      "type": "vocabulary",
+      "explanation": "Descriptive compound adjectives giving tone and context.",
+      "example": "In today’s fast-paced, tech-centric economy, adaptation is key."
+    },
+    {
+      "text": "shifting their attention away from artistic pursuits",
+      "type": "structure",
+      "explanation": "Present participle phrase used to describe societal trends.",
+      "example": "Many people are shifting their attention away from reading books."
+    },
+    {
+      "text": "diminishing appreciation of art",
+      "type": "vocabulary",
+      "explanation": "Collocation used to capture a cultural decline.",
+      "example": "There is a diminishing appreciation of handwritten letters."
+    },
+    {
+      "text": "economic and societal pressures",
+      "type": "phrase",
+      "explanation": "Formal phrase grouping two major influencing factors.",
+      "example": "Economic and societal pressures have reshaped education priorities."
+    },
+    {
+      "text": "reward technical skills that lead to tangible outcomes",
+      "type": "structure",
+      "explanation": "Cause-effect construction with strong verbs and academic tone.",
+      "example": "Modern companies reward innovation that leads to tangible outcomes."
+    },
+    {
+      "text": "art is frequently perceived as a hobby",
+      "type": "grammar",
+      "explanation": "Passive construction to express public perception.",
+      "example": "Philosophy is often perceived as abstract and impractical."
+    },
+    {
+      "text": "marginalization in schools and public funding",
+      "type": "vocabulary",
+      "explanation": "High-level noun to describe exclusion or reduction.",
+      "example": "Marginalization of the humanities is a growing concern."
+    },
+    {
+      "text": "cannot be overstated",
+      "type": "phrase",
+      "explanation": "An emphatic expression to reinforce significance.",
+      "example": "The impact of early childhood education cannot be overstated."
+    },
+    {
+      "text": "challenges perspectives and fosters empathy",
+      "type": "vocabulary",
+      "explanation": "Strong verbs to convey emotional and intellectual benefits.",
+      "example": "Literature challenges perspectives and fosters emotional intelligence."
+    },
+    {
+      "text": "inspire community cohesion and identity",
+      "type": "vocabulary",
+      "explanation": "Formal phrase linking art to social bonding.",
+      "example": "Cultural festivals inspire community cohesion and pride."
+    },
+    {
+      "text": "risk losing not just beauty, but the human values",
+      "type": "structure",
+      "explanation": "Balanced structure used to contrast visible and abstract elements.",
+      "example": "By automating everything, we risk losing not just jobs, but human connection."
+    },
+    {
+      "text": "poses a significant cultural and emotional cost",
+      "type": "vocabulary",
+      "explanation": "Noun phrase emphasizing negative consequences.",
+      "example": "Climate change poses a significant environmental and social cost."
+    },
+    {
+      "text": "progress does not come at the expense of",
+      "type": "phrase",
+      "explanation": "Formal phrase to warn against harmful trade-offs.",
+      "example": "Economic growth should not come at the expense of environmental degradation."
+    },
+    {
+      "text": "builds meaning—and that is equally vital",
+      "type": "grammar",
+      "explanation": "Compound sentence ending with emphasis using em dash.",
+      "example": "Science saves lives—but compassion builds meaning."
+    }
+  ]
 }
 
 ]
