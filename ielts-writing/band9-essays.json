@@ -454,5 +454,63 @@
       "example": "Funding science is an investment in national progress and innovation."
     }
   ]
+},
+    {
+  "id": "task2-45ca51e3",
+  "taskType": "task2",
+  "question": "In some countries, a few people earn extremely high salaries. Some people think that this is good for a country, while others believe that the government should control salaries and limit the amount people can earn. Discuss both views and give your opinion.",
+  "answer": "Income disparity is a topic of frequent debate across nations. Some argue that allowing individuals to earn exceptionally high salaries benefits national growth by incentivizing talent and hard work. Others believe such disparities can harm social cohesion and advocate for salary caps imposed by governments. This essay will examine both perspectives before concluding that while high incomes can be beneficial, some regulation is necessary to maintain societal balance.\n\nSupporters of high salaries assert that they reward excellence and drive economic development. High earners often include entrepreneurs, innovators, and skilled professionals whose contributions generate jobs and tax revenue. For example, tech leaders like those in Silicon Valley have built global companies that not only create employment but also push forward technological advancements. Moreover, the potential to earn large sums of money can motivate individuals to invest in education and innovation.\n\nOn the other hand, critics argue that extreme income inequality undermines social equity. When a small fraction of the population holds a disproportionate amount of wealth, it can breed resentment, reduce social mobility, and strain public services. Countries with large income gaps often experience higher crime rates, poorer public health, and weaker community bonds. Limiting salaries, they argue, could reduce this divide and promote a fairer distribution of resources.\n\nIn conclusion, while high salaries can indeed spur innovation and reward achievement, unchecked income disparities may damage societal fabric. Governments should strike a balance—encouraging individual success while implementing fair tax systems and social policies to ensure inclusivity and equality. A prosperous nation is one where success uplifts not just a few, but the many.",
+  "analysis": "This essay clearly addresses both sides of the argument and articulates a balanced personal opinion. Examples are relevant and well explained. The vocabulary is academic, grammar is accurate, and cohesion is smooth throughout.",
+  "highlights": [
+    {
+      "text": "Income disparity is a topic of frequent debate",
+      "type": "phrase",
+      "explanation": "Useful expression to introduce a controversial issue.",
+      "example": "Climate change policy is a topic of frequent debate in politics."
+    },
+    {
+      "text": "reward excellence and drive economic development",
+      "type": "vocabulary",
+      "explanation": "High-level phrase connecting personal success with national benefit.",
+      "example": "Merit-based scholarships reward excellence and drive academic ambition."
+    },
+    {
+      "text": "generate jobs and tax revenue",
+      "type": "phrase",
+      "explanation": "Formal phrase used in economic discussions.",
+      "example": "Infrastructure projects generate jobs and tax revenue."
+    },
+    {
+      "text": "push forward technological advancements",
+      "type": "vocabulary",
+      "explanation": "Describes how innovation leads to progress.",
+      "example": "Investment in research pushes forward technological advancements."
+    },
+    {
+      "text": "breed resentment, reduce social mobility",
+      "type": "structure",
+      "explanation": "Parallel structure showing negative effects.",
+      "example": "Unfair systems breed resentment and reduce trust."
+    },
+    {
+      "text": "weaker community bonds",
+      "type": "vocabulary",
+      "explanation": "Describes erosion of social cohesion.",
+      "example": "Rapid urbanization may lead to weaker community bonds."
+    },
+    {
+      "text": "strike a balance",
+      "type": "phrase",
+      "explanation": "Common idiom used to suggest compromise.",
+      "example": "Parents should strike a balance between discipline and freedom."
+    },
+    {
+      "text": "success uplifts not just a few, but the many",
+      "type": "structure",
+      "explanation": "Emphatic structure to end the essay powerfully.",
+      "example": "Education reform must benefit not just the elite, but the many."
+    }
+  ]
 }
+
 ]
