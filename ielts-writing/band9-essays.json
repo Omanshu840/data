@@ -562,7 +562,126 @@
       "example": "Many firms are adopting a hybrid approach to remote work."
     }
   ]
+},
+    {
+  "id": "task2-4d1e89d7",
+  "taskType": "task2",
+  "question": "Due to the development and rapid expansion of supermarkets in some countries, many small, local business are unable to compete. Some people think that the closure of local business will bring about the death of local communities. To what extent do you agree or disagree?",
+  "answer": "The rise of large supermarket chains has significantly reshaped consumer habits and local economies. While some argue that the decline of small, local businesses is a natural outcome of progress, others contend that it poses a serious threat to the survival of local communities. I strongly agree with the latter view, as the disappearance of small enterprises can erode community identity and weaken local social bonds.\n\nOne major consequence of supermarket expansion is the displacement of small, family-run businesses that form the backbone of local economies. These businesses often serve as gathering places, where residents not only shop but also interact, fostering a sense of belonging. For instance, a local bakery or bookstore typically knows its regular customers by name, offering personalized service and fostering familiarity. When such establishments shut down, the communal fabric begins to unravel, reducing both social cohesion and neighborhood vibrancy.\n\nMoreover, the dominance of large retail chains can homogenize consumer choices and funnel wealth out of local areas. Supermarkets often import standardized goods in bulk, pushing out unique, locally produced items that reflect regional culture and craftsmanship. As profits from these chains are typically returned to corporate headquarters rather than reinvested locally, communities suffer long-term economic decline. This not only limits local entrepreneurship but also diminishes the cultural diversity that small businesses help sustain.\n\nIn conclusion, the closure of small, local businesses due to supermarket expansion can indeed spell the gradual decline of local communities. Protecting these enterprises is not merely about economics, but about preserving the identity, culture, and social vitality of a community. Governments and citizens alike must prioritize policies and practices that support local businesses and ensure their continued relevance in an increasingly globalized marketplace.",
+  "analysis": "The essay presents a clear and strongly argued position throughout, directly addressing the task. It maintains logical flow, uses a wide range of vocabulary and sentence structures with precision, and is well-supported with relevant examples and explanations. Paragraphing and cohesion are managed skillfully.",
+  "highlights": [
+    {
+      "text": "reshaped consumer habits and local economies",
+      "type": "phrase",
+      "explanation": "Effectively summarizes the broader impact of supermarkets",
+      "example": "Digital platforms have reshaped consumer habits and business models."
+    },
+    {
+      "text": "poses a serious threat to the survival of local communities",
+      "type": "phrase",
+      "explanation": "Strong language to emphasize consequence",
+      "example": "Climate change poses a serious threat to global ecosystems."
+    },
+    {
+      "text": "I strongly agree with the latter view",
+      "type": "structure",
+      "explanation": "Clear and formal way to state your opinion in an agree/disagree essay",
+      "example": "I strongly agree with the notion that public transport should be free."
+    },
+    {
+      "text": "serve as gathering places",
+      "type": "vocabulary",
+      "explanation": "Descriptive phrase that implies social importance of businesses",
+      "example": "Libraries serve as gathering places for local communities."
+    },
+    {
+      "text": "fostering a sense of belonging",
+      "type": "vocabulary",
+      "explanation": "Good collocation and academic phrase",
+      "example": "Cultural events play a role in fostering a sense of belonging."
+    },
+    {
+      "text": "the communal fabric begins to unravel",
+      "type": "phrase",
+      "explanation": "Metaphor showing community breakdown",
+      "example": "When trust in institutions fades, the communal fabric begins to unravel."
+    },
+    {
+      "text": "homogenize consumer choices",
+      "type": "vocabulary",
+      "explanation": "Strong verb to describe loss of variety",
+      "example": "Global brands tend to homogenize consumer choices."
+    },
+    {
+      "text": "profits from these chains are typically returned to corporate headquarters",
+      "type": "grammar",
+      "explanation": "Complex passive construction showing clarity and precision",
+      "example": "Taxes collected are typically returned to state budgets."
+    },
+    {
+      "text": "not merely about economics, but about preserving the identity",
+      "type": "structure",
+      "explanation": "Balanced sentence structure for strong conclusion",
+      "example": "Climate action is not merely about the environment, but about justice."
+    }
+  ]
+},
+    {
+  "id": "task2-59e834c1",
+  "taskType": "task2",
+  "question": "Companies should provide sports and social facilities for local communities. To what extent do you agree?",
+  "answer": "In today's corporate landscape, the role of companies extends beyond profit generation to include social responsibility. One such responsibility is the provision of sports and social facilities for local communities. I completely agree that companies should invest in these initiatives, as they foster goodwill and contribute positively to public health and social cohesion.\n\nProviding sports and social amenities can significantly enhance a company's relationship with the surrounding community. By sponsoring fitness centers, parks, or recreational clubs, businesses demonstrate their commitment to societal well-being, which in turn improves their public image. For instance, multinational firms like Adidas and Tata have launched community sports programs, strengthening their brand reputation while genuinely benefiting the local population. This mutually reinforcing relationship promotes long-term trust and loyalty between businesses and communities.\n\nMoreover, such initiatives have tangible impacts on community health and integration. Access to well-maintained sports facilities encourages physical activity, which reduces public healthcare costs in the long run. Similarly, social venues can bring people from diverse backgrounds together, promoting inclusion and harmony. When companies contribute to these areas, they not only boost community welfare but also indirectly create a healthier and more productive workforce, which ultimately benefits their own operations.\n\nIn conclusion, companies should indeed play an active role in providing sports and social facilities to local communities. These efforts enhance corporate reputation, promote community well-being, and foster social unity. In an era where stakeholder engagement is crucial, investing in such amenities is not just ethical—it’s strategic.",
+  "analysis": "This essay effectively addresses the question with a clear stance and well-developed arguments. It demonstrates a strong command of vocabulary, advanced grammar structures, and excellent cohesion. Examples are relevant and well-integrated, supporting a sophisticated, coherent argument throughout.",
+  "highlights": [
+    {
+      "text": "extends beyond profit generation to include social responsibility",
+      "type": "phrase",
+      "explanation": "Strong introductory phrase showing an evolved corporate role",
+      "example": "Modern education extends beyond exams to include emotional learning."
+    },
+    {
+      "text": "foster goodwill and contribute positively to public health and social cohesion",
+      "type": "vocabulary",
+      "explanation": "Good collocations and formal tone appropriate for Task 2",
+      "example": "Urban greening fosters goodwill and contributes to environmental stability."
+    },
+    {
+      "text": "demonstrate their commitment to societal well-being",
+      "type": "phrase",
+      "explanation": "Strong academic phrase showing action with ethical intent",
+      "example": "Universities must demonstrate their commitment to diversity and inclusion."
+    },
+    {
+      "text": "mutually reinforcing relationship",
+      "type": "vocabulary",
+      "explanation": "Advanced phrase describing positive interdependence",
+      "example": "Education and innovation have a mutually reinforcing relationship."
+    },
+    {
+      "text": "tangible impacts on community health and integration",
+      "type": "vocabulary",
+      "explanation": "Precise language combining measurable and social outcomes",
+      "example": "Access to clean water has tangible impacts on health outcomes."
+    },
+    {
+      "text": "reduce public healthcare costs in the long run",
+      "type": "structure",
+      "explanation": "Cause-effect structure using future implications",
+      "example": "Investing in education reduces unemployment rates in the long run."
+    },
+    {
+      "text": "bring people from diverse backgrounds together",
+      "type": "phrase",
+      "explanation": "Inclusive and relevant in discussions on social unity",
+      "example": "Festivals bring people from diverse backgrounds together in celebration."
+    },
+    {
+      "text": "not just ethical—it’s strategic",
+      "type": "structure",
+      "explanation": "Rhetorical sentence ending with a strong point",
+      "example": "Climate action is not just necessary—it’s inevitable."
+    }
+  ]
 }
-
 
 ]
