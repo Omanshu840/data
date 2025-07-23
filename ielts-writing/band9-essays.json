@@ -739,7 +739,71 @@
       "example": "Education is not only important but indispensable for development."
     }
   ]
+},
+    {
+  "id": "task2-ec8034d3",
+  "taskType": "task2",
+  "question": "Large businesses have big budgets for marketing and promotion and as a result, people gravitate towards buying their products. What problems does this cause? What could be done to encourage people to buy local products?",
+  "answer": "In today’s consumer-driven world, large corporations dominate the market through aggressive advertising and promotional strategies. This trend often draws consumers away from local alternatives. This essay will explore the problems created by such market imbalance and suggest practical measures to promote local products.\n\nOne major issue is the decline of small and local businesses that cannot compete with multinational marketing power. As consumers increasingly choose global brands, local enterprises struggle to survive, resulting in reduced economic diversity and loss of community-based employment. For example, the expansion of global coffee chains has led to the closure of many independent cafes.\nFurthermore, consumer choices become homogenized, limiting cultural variety and promoting a one-size-fits-all market dominated by a few powerful players. This erodes regional identity and diminishes the uniqueness of local goods and traditions.\n\nTo address these concerns, governments and communities can implement strategies to support local products. One effective approach is offering subsidies, tax incentives, or grants to local businesses, helping them improve visibility and competitiveness.\nAdditionally, public awareness campaigns highlighting the environmental and economic benefits of buying locally can influence consumer behavior. Farmers’ markets, “Buy Local” campaigns, and eco-labeling have already proven successful in many countries in shifting public preference toward regional products.\n\nIn conclusion, the overwhelming influence of large businesses in marketing creates serious challenges for local economies and cultural diversity. However, with the support of government policies and community-driven initiatives, consumers can be guided toward making more conscious and locally supportive purchasing decisions. Encouraging local consumption is not only economically important but also essential for preserving identity and sustainability.",
+  "analysis": "The essay presents a balanced discussion with clear paragraphing, strong arguments, and well-developed examples. Vocabulary is advanced and varied, grammar is accurate and flexible, and the overall structure aligns with IELTS Band 9 expectations.",
+  "highlights": [
+    {
+      "text": "consumer-driven world",
+      "type": "vocabulary",
+      "explanation": "A descriptive phrase highlighting market dynamics",
+      "example": "In a consumer-driven world, branding plays a major role in purchasing behavior."
+    },
+    {
+      "text": "draws consumers away from local alternatives",
+      "type": "phrase",
+      "explanation": "Effectively illustrates how advertising influences decisions",
+      "example": "Aggressive pricing can draw consumers away from sustainable products."
+    },
+    {
+      "text": "reduced economic diversity and loss of community-based employment",
+      "type": "structure",
+      "explanation": "Complex noun phrase showing multifaceted consequences",
+      "example": "Automation has led to reduced economic diversity in rural areas."
+    },
+    {
+      "text": "consumer choices become homogenized",
+      "type": "vocabulary",
+      "explanation": "Advanced expression showing loss of variety",
+      "example": "When global franchises dominate, consumer choices become homogenized."
+    },
+    {
+      "text": "erodes regional identity",
+      "type": "phrase",
+      "explanation": "Metaphoric phrase indicating cultural decline",
+      "example": "Tourism can sometimes erode regional identity by promoting stereotypes."
+    },
+    {
+      "text": "subsidies, tax incentives, or grants",
+      "type": "structure",
+      "explanation": "List structure demonstrating variety of solutions",
+      "example": "Governments can provide subsidies, training programs, or financial literacy courses."
+    },
+    {
+      "text": "public awareness campaigns",
+      "type": "vocabulary",
+      "explanation": "Government or NGO-led efforts to inform the public",
+      "example": "Public awareness campaigns are key to reducing plastic waste."
+    },
+    {
+      "text": "more conscious and locally supportive purchasing decisions",
+      "type": "grammar",
+      "explanation": "Adjective-noun structure using parallel modifiers",
+      "example": "People are making more conscious and environmentally friendly choices."
+    },
+    {
+      "text": "preserving identity and sustainability",
+      "type": "phrase",
+      "explanation": "Summarizes the broader social goal",
+      "example": "Traditional education helps in preserving identity and sustainability in culture."
+    }
+  ]
 }
+
 
 
 ]
