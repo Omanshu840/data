@@ -1,809 +1,1262 @@
 [
     {
-  "id": "task2-1",
-  "taskType": "task2",
-  "question": "Some people think that the government is wasting money on the arts and that this money could be better spent elsewhere. To what extent do you agree with this view?",
-  "answer": "Art has long been a cornerstone of human civilization, reflecting culture, history, and emotion. In modern times, however, some critics argue that allocating public funds to the arts is a misuse of taxpayer money, especially when other pressing issues demand attention. While I acknowledge the importance of prioritizing basic needs, I firmly believe that government investment in the arts is not only justified but essential for societal growth and well-being.\n\nOne compelling reason to support public funding for the arts is its role in preserving cultural identity. Government-sponsored programs in visual arts, music, and theater serve as a means to protect and promote a nation's heritage. For instance, traditional dance forms in India and indigenous crafts in Latin America are kept alive through state-backed initiatives, allowing younger generations to remain connected to their roots. Without such support, many of these traditions might fade into obscurity.\n\nMoreover, the arts contribute significantly to both mental health and the economy. Public exposure to artistic expression has been shown to reduce stress and foster creativity, particularly among youth. In addition, sectors like film, music, and design create thousands of jobs and stimulate local economies. For example, the UK’s creative industries generated over £100 billion in 2019, proving that art is not just cultural capital, but economic as well.\n\nIn conclusion, although there are valid arguments for redirecting public funds to more immediate social needs, investing in the arts is neither wasteful nor secondary. Governments should continue to fund the arts as they enrich national identity, promote mental well-being, and bolster economic development. Rather than viewing the arts as a luxury, societies must recognize them as a vital thread in the fabric of progress.",
-  "analysis": "This essay demonstrates a Band 9 performance by presenting a clear, well-developed argument with rich examples and precise language. The structure is cohesive, with seamless transitions and varied sentence forms. Vocabulary is sophisticated yet natural, and grammar is used flexibly with excellent control throughout.",
-  "highlights": [
-    {
-      "text": "cornerstone of human civilization",
-      "type": "phrase",
-      "explanation": "A metaphor that powerfully establishes the foundational role of art.",
-      "example": "Freedom of speech is the cornerstone of any democratic society."
+        "id": "task2-1",
+        "taskType": "task2",
+        "question": "Some people think that the government is wasting money on the arts and that this money could be better spent elsewhere. To what extent do you agree with this view?",
+        "answer": "Art has long been a cornerstone of human civilization, reflecting culture, history, and emotion. In modern times, however, some critics argue that allocating public funds to the arts is a misuse of taxpayer money, especially when other pressing issues demand attention. While I acknowledge the importance of prioritizing basic needs, I firmly believe that government investment in the arts is not only justified but essential for societal growth and well-being.\n\nOne compelling reason to support public funding for the arts is its role in preserving cultural identity. Government-sponsored programs in visual arts, music, and theater serve as a means to protect and promote a nation's heritage. For instance, traditional dance forms in India and indigenous crafts in Latin America are kept alive through state-backed initiatives, allowing younger generations to remain connected to their roots. Without such support, many of these traditions might fade into obscurity.\n\nMoreover, the arts contribute significantly to both mental health and the economy. Public exposure to artistic expression has been shown to reduce stress and foster creativity, particularly among youth. In addition, sectors like film, music, and design create thousands of jobs and stimulate local economies. For example, the UK’s creative industries generated over £100 billion in 2019, proving that art is not just cultural capital, but economic as well.\n\nIn conclusion, although there are valid arguments for redirecting public funds to more immediate social needs, investing in the arts is neither wasteful nor secondary. Governments should continue to fund the arts as they enrich national identity, promote mental well-being, and bolster economic development. Rather than viewing the arts as a luxury, societies must recognize them as a vital thread in the fabric of progress.",
+        "analysis": "This essay demonstrates a Band 9 performance by presenting a clear, well-developed argument with rich examples and precise language. The structure is cohesive, with seamless transitions and varied sentence forms. Vocabulary is sophisticated yet natural, and grammar is used flexibly with excellent control throughout.",
+        "highlights": [
+            {
+                "text": "cornerstone of human civilization",
+                "type": "phrase",
+                "explanation": "A metaphor that powerfully establishes the foundational role of art.",
+                "example": "Freedom of speech is the cornerstone of any democratic society."
+            },
+            {
+                "text": "allocating public funds",
+                "type": "vocabulary",
+                "explanation": "Formal vocabulary used to describe government spending decisions.",
+                "example": "Allocating public funds for education remains a top priority."
+            },
+            {
+                "text": "misuse of taxpayer money",
+                "type": "phrase",
+                "explanation": "Common expression in debates about government spending.",
+                "example": "Building luxury offices may be considered a misuse of taxpayer money."
+            },
+            {
+                "text": "pressing issues demand attention",
+                "type": "structure",
+                "explanation": "Combines an adjective and verb structure to emphasize urgency.",
+                "example": "Pressing climate issues demand global cooperation."
+            },
+            {
+                "text": "essential for societal growth and well-being",
+                "type": "vocabulary",
+                "explanation": "Precise and high-level vocabulary that captures broad impact.",
+                "example": "Access to clean water is essential for societal growth and well-being."
+            },
+            {
+                "text": "preserving cultural identity",
+                "type": "vocabulary",
+                "explanation": "Academic collocation frequently used in cultural and social topics.",
+                "example": "Language plays a key role in preserving cultural identity."
+            },
+            {
+                "text": "kept alive through state-backed initiatives",
+                "type": "structure",
+                "explanation": "Effective passive voice construction highlighting external support.",
+                "example": "Rare wildlife species are kept alive through conservation efforts."
+            },
+            {
+                "text": "connected to their roots",
+                "type": "phrase",
+                "explanation": "An idiomatic expression for maintaining cultural ties.",
+                "example": "Festivals help people stay connected to their roots."
+            },
+            {
+                "text": "fade into obscurity",
+                "type": "phrase",
+                "explanation": "A vivid way to express something becoming forgotten.",
+                "example": "Old traditions are in danger of fading into obscurity."
+            },
+            {
+                "text": "reduce stress and foster creativity",
+                "type": "vocabulary",
+                "explanation": "Useful pair of benefits often associated with the arts or mindfulness.",
+                "example": "Painting can reduce stress and foster creativity in children."
+            },
+            {
+                "text": "stimulate local economies",
+                "type": "vocabulary",
+                "explanation": "Economics-related collocation, shows financial impact.",
+                "example": "Tourism can stimulate local economies in rural areas."
+            },
+            {
+                "text": "generated over £100 billion",
+                "type": "vocabulary",
+                "explanation": "Use of quantitative data to strengthen argument.",
+                "example": "The IT industry generated over $300 billion last year."
+            },
+            {
+                "text": "not just cultural capital, but economic as well",
+                "type": "structure",
+                "explanation": "Parallel structure to compare two types of value.",
+                "example": "Education is not just a personal benefit, but a national asset as well."
+            },
+            {
+                "text": "valid arguments for redirecting public funds",
+                "type": "phrase",
+                "explanation": "Shows balance by acknowledging the opposing view.",
+                "example": "There are valid arguments for increasing defense budgets."
+            },
+            {
+                "text": "neither wasteful nor secondary",
+                "type": "grammar",
+                "explanation": "Use of correlative conjunction 'neither...nor' to refute criticism.",
+                "example": "The project is neither risky nor unprofitable."
+            },
+            {
+                "text": "vital thread in the fabric of progress",
+                "type": "phrase",
+                "explanation": "A metaphorical expression illustrating the importance of the arts.",
+                "example": "Education is a vital thread in the fabric of any nation's progress."
+            },
+            {
+                "text": "Rather than viewing the arts as a luxury",
+                "type": "grammar",
+                "explanation": "Complex sentence with contrasting clause using 'rather than'.",
+                "example": "Rather than punishing children, we should focus on understanding them."
+            }
+        ]
     },
     {
-      "text": "allocating public funds",
-      "type": "vocabulary",
-      "explanation": "Formal vocabulary used to describe government spending decisions.",
-      "example": "Allocating public funds for education remains a top priority."
+        "id": "task2-2",
+        "taskType": "task2",
+        "question": "Many people think that museums and galleries should only show work from local artists rather than work from other countries. Do you agree?",
+        "answer": "Museums and galleries play a crucial role in preserving and showcasing human creativity and history. While some believe that these institutions should exclusively exhibit artwork from local artists, others argue for a more global representation. I firmly believe that museums and galleries should feature both local and international works, as this not only enriches cultural understanding but also inspires artistic growth.\n\nExhibiting international artwork fosters cross-cultural awareness and global appreciation. When visitors are exposed to creative works from different countries, they gain insight into foreign cultures, histories, and values. For instance, an exhibit of Japanese ukiyo-e prints or African tribal masks in a European museum offers viewers a chance to connect with traditions they may never otherwise encounter. Such exposure helps dismantle stereotypes and promotes a more tolerant and informed society.\n\nFurthermore, showcasing international works alongside local art encourages innovation and inspiration among native artists. Local creators can draw influence from various styles, techniques, and philosophies, leading to fresh interpretations and hybrid forms of expression. For example, the works of Indian modernists like M.F. Husain were deeply enriched by their exposure to Western art movements such as Cubism and Expressionism. This exchange of ideas fuels creative diversity and ensures that the artistic community continues to evolve.\n\nIn conclusion, while celebrating local talent is undeniably important, restricting museums and galleries to domestic art alone limits cultural exchange and artistic progress. Governments and curators should strive to maintain a balanced representation, allowing people to appreciate both their roots and the broader spectrum of global creativity. In an increasingly interconnected world, embracing international art is not only relevant but essential.",
+        "analysis": "This essay demonstrates an excellent response to the question with a clear and nuanced position. Ideas are well developed, supported with specific examples, and logically sequenced. The vocabulary is rich and precise, the grammar is controlled and varied, and cohesive devices are used effortlessly. The conclusion offers a powerful call to action, completing a well-balanced argument.",
+        "highlights": [
+            {
+                "text": "play a crucial role in preserving and showcasing",
+                "type": "phrase",
+                "explanation": "An effective formal phrase to describe important institutional functions.",
+                "example": "Schools play a crucial role in preserving ethical values and showcasing academic growth."
+            },
+            {
+                "text": "exclusively exhibit artwork",
+                "type": "vocabulary",
+                "explanation": "Advanced collocation for restricting display to a certain group.",
+                "example": "The gallery plans to exclusively exhibit female photographers this year."
+            },
+            {
+                "text": "enriches cultural understanding",
+                "type": "vocabulary",
+                "explanation": "Strong verb-noun collocation to describe intellectual benefit.",
+                "example": "Traveling abroad enriches cultural understanding and empathy."
+            },
+            {
+                "text": "fosters cross-cultural awareness",
+                "type": "vocabulary",
+                "explanation": "A precise phrase to explain global exposure and understanding.",
+                "example": "Studying international literature fosters cross-cultural awareness among students."
+            },
+            {
+                "text": "gain insight into foreign cultures",
+                "type": "phrase",
+                "explanation": "Useful expression to talk about deeper learning and appreciation.",
+                "example": "Volunteering abroad helps one gain insight into foreign cultures."
+            },
+            {
+                "text": "connect with traditions they may never otherwise encounter",
+                "type": "structure",
+                "explanation": "A conditional clause that introduces rare exposure through an opportunity.",
+                "example": "Online platforms allow rural students to connect with ideas they may never otherwise encounter."
+            },
+            {
+                "text": "helps dismantle stereotypes",
+                "type": "vocabulary",
+                "explanation": "Powerful verb-noun combination to indicate breaking down bias.",
+                "example": "Cross-cultural friendships help dismantle harmful stereotypes."
+            },
+            {
+                "text": "showcasing international works alongside local art",
+                "type": "structure",
+                "explanation": "Balanced structure emphasizing inclusion of both groups.",
+                "example": "Showcasing traditional techniques alongside digital methods creates a comprehensive exhibit."
+            },
+            {
+                "text": "draw influence from various styles",
+                "type": "phrase",
+                "explanation": "Describes artistic or intellectual inspiration with flexibility.",
+                "example": "Modern chefs draw influence from both classical and fusion cuisines."
+            },
+            {
+                "text": "leading to fresh interpretations and hybrid forms of expression",
+                "type": "structure",
+                "explanation": "Progressive structure showing outcomes of mixing ideas.",
+                "example": "The blending of genres leads to fresh interpretations and hybrid storytelling techniques."
+            },
+            {
+                "text": "deeply enriched by their exposure to",
+                "type": "vocabulary",
+                "explanation": "Useful phrase to describe transformative learning or influence.",
+                "example": "Her music was deeply enriched by her exposure to folk traditions."
+            },
+            {
+                "text": "exchange of ideas fuels creative diversity",
+                "type": "phrase",
+                "explanation": "Metaphorical phrase showing cause and effect in innovation.",
+                "example": "Global conferences ensure that the exchange of ideas fuels creative diversity."
+            },
+            {
+                "text": "while celebrating local talent is undeniably important",
+                "type": "grammar",
+                "explanation": "Complex sentence opening with concessive clause.",
+                "example": "While online education is undeniably important, classroom interaction remains crucial."
+            },
+            {
+                "text": "limits cultural exchange and artistic progress",
+                "type": "phrase",
+                "explanation": "Concise phrasing showing negative outcomes of exclusivity.",
+                "example": "Strict censorship limits cultural exchange and artistic innovation."
+            },
+            {
+                "text": "appreciate both their roots and the broader spectrum of global creativity",
+                "type": "structure",
+                "explanation": "Balanced parallel structure expressing dual appreciation.",
+                "example": "Students should learn to appreciate both traditional values and modern perspectives."
+            },
+            {
+                "text": "embracing international art is not only relevant but essential",
+                "type": "grammar",
+                "explanation": "Strong conclusion using correlative conjunction 'not only... but also'.",
+                "example": "Learning a second language is not only useful but essential in today’s global world."
+            }
+        ]
     },
     {
-      "text": "misuse of taxpayer money",
-      "type": "phrase",
-      "explanation": "Common expression in debates about government spending.",
-      "example": "Building luxury offices may be considered a misuse of taxpayer money."
+        "id": "task2-3",
+        "taskType": "task2",
+        "question": "Art is considered an essential part of all cultures throughout the world. However, these days fewer and fewer people appreciate art and turn their focus to science, technology and business.",
+        "answer": "Art has long been regarded as a vital expression of culture, identity, and emotion across civilizations. However, in today’s fast-paced, result-driven world, an increasing number of people are shifting their attention away from artistic pursuits in favour of science, technology, and business. While this trend is understandable given the demands of modern economies, I believe the diminishing appreciation of art is a cultural loss that must be addressed.\n\nThe growing focus on science and technology is largely driven by economic and societal pressures. Modern education systems and job markets reward technical skills that lead to tangible outcomes such as innovation, productivity, and profit. For instance, students are often encouraged to pursue careers in software engineering, data science, or entrepreneurship because they offer better financial security than artistic fields. As a result, art is frequently perceived as a hobby rather than a viable career, leading to its marginalization in schools and public funding.\n\nNevertheless, the importance of art in maintaining cultural richness and emotional well-being cannot be overstated. Art connects people to their heritage, challenges perspectives, and fosters empathy—qualities that are essential for a healthy, balanced society. For example, street murals in Brazil or traditional music in West Africa continue to inspire community cohesion and identity. By neglecting art, societies risk losing not just beauty, but the human values and historical continuity that it embodies.\n\nIn conclusion, while the rise of science, technology, and business reflects modern priorities, the declining appreciation for art poses a significant cultural and emotional cost. Governments, educators, and communities must actively preserve and promote the arts to ensure that progress does not come at the expense of cultural identity and human connection. Art may not build bridges or write code, but it builds meaning—and that is equally vital.",
+        "analysis": "This essay thoroughly addresses the topic with a clear, well-argued thesis. It balances both sides of the issue, using specific examples and high-level vocabulary. Cohesion is smooth, with natural transitions and sentence variation. The conclusion delivers a strong emotional appeal and call to action, rounding off a highly effective response.",
+        "highlights": [
+            {
+                "text": "vital expression of culture, identity, and emotion",
+                "type": "phrase",
+                "explanation": "A rich phrase showing art's multi-dimensional importance.",
+                "example": "Language is a vital expression of culture and thought."
+            },
+            {
+                "text": "fast-paced, result-driven world",
+                "type": "vocabulary",
+                "explanation": "Descriptive compound adjectives giving tone and context.",
+                "example": "In today’s fast-paced, tech-centric economy, adaptation is key."
+            },
+            {
+                "text": "shifting their attention away from artistic pursuits",
+                "type": "structure",
+                "explanation": "Present participle phrase used to describe societal trends.",
+                "example": "Many people are shifting their attention away from reading books."
+            },
+            {
+                "text": "diminishing appreciation of art",
+                "type": "vocabulary",
+                "explanation": "Collocation used to capture a cultural decline.",
+                "example": "There is a diminishing appreciation of handwritten letters."
+            },
+            {
+                "text": "economic and societal pressures",
+                "type": "phrase",
+                "explanation": "Formal phrase grouping two major influencing factors.",
+                "example": "Economic and societal pressures have reshaped education priorities."
+            },
+            {
+                "text": "reward technical skills that lead to tangible outcomes",
+                "type": "structure",
+                "explanation": "Cause-effect construction with strong verbs and academic tone.",
+                "example": "Modern companies reward innovation that leads to tangible outcomes."
+            },
+            {
+                "text": "art is frequently perceived as a hobby",
+                "type": "grammar",
+                "explanation": "Passive construction to express public perception.",
+                "example": "Philosophy is often perceived as abstract and impractical."
+            },
+            {
+                "text": "marginalization in schools and public funding",
+                "type": "vocabulary",
+                "explanation": "High-level noun to describe exclusion or reduction.",
+                "example": "Marginalization of the humanities is a growing concern."
+            },
+            {
+                "text": "cannot be overstated",
+                "type": "phrase",
+                "explanation": "An emphatic expression to reinforce significance.",
+                "example": "The impact of early childhood education cannot be overstated."
+            },
+            {
+                "text": "challenges perspectives and fosters empathy",
+                "type": "vocabulary",
+                "explanation": "Strong verbs to convey emotional and intellectual benefits.",
+                "example": "Literature challenges perspectives and fosters emotional intelligence."
+            },
+            {
+                "text": "inspire community cohesion and identity",
+                "type": "vocabulary",
+                "explanation": "Formal phrase linking art to social bonding.",
+                "example": "Cultural festivals inspire community cohesion and pride."
+            },
+            {
+                "text": "risk losing not just beauty, but the human values",
+                "type": "structure",
+                "explanation": "Balanced structure used to contrast visible and abstract elements.",
+                "example": "By automating everything, we risk losing not just jobs, but human connection."
+            },
+            {
+                "text": "poses a significant cultural and emotional cost",
+                "type": "vocabulary",
+                "explanation": "Noun phrase emphasizing negative consequences.",
+                "example": "Climate change poses a significant environmental and social cost."
+            },
+            {
+                "text": "progress does not come at the expense of",
+                "type": "phrase",
+                "explanation": "Formal phrase to warn against harmful trade-offs.",
+                "example": "Economic growth should not come at the expense of environmental degradation."
+            },
+            {
+                "text": "builds meaning—and that is equally vital",
+                "type": "grammar",
+                "explanation": "Compound sentence ending with emphasis using em dash.",
+                "example": "Science saves lives—but compassion builds meaning."
+            }
+        ]
     },
     {
-      "text": "pressing issues demand attention",
-      "type": "structure",
-      "explanation": "Combines an adjective and verb structure to emphasize urgency.",
-      "example": "Pressing climate issues demand global cooperation."
+        "id": "task2-f7a15dee",
+        "taskType": "task2",
+        "question": "Some people think that art is an essential subject for children at school while others think it is a waste of time. Discuss both sides and give your opinion.",
+        "answer": "The inclusion of art in school curricula has long been a subject of debate. While some argue that it fosters creativity and emotional intelligence in children, others claim that it detracts from core academic subjects such as math and science. This essay will discuss both perspectives before concluding that art is a crucial element of a balanced education.\n\nSupporters of art education emphasize its role in nurturing creativity and emotional development. Art enables children to express themselves in non-verbal ways, boosting their self-esteem and imagination. For example, drawing or painting can help introverted students communicate emotions that they may struggle to verbalize. Additionally, exposure to art has been linked to improvements in problem-solving skills and lateral thinking, both of which are valuable in any discipline.\n\nOn the other hand, critics argue that school time is better spent on practical and measurable subjects. In a competitive world increasingly dominated by science and technology, skills in coding, mathematics, and literacy are often prioritized. They contend that artistic ability may not translate into viable career opportunities, and thus, investing heavily in art education may not be cost-effective for schools with limited resources.\n\nIn conclusion, while practical subjects are undeniably important, dismissing art as a waste of time undermines its substantial benefits in fostering emotional and cognitive development. Schools should aim for a well-rounded curriculum that values creativity alongside academic rigor, ensuring students grow into both capable and expressive individuals.",
+        "analysis": "This essay provides a balanced discussion with clear arguments on both sides and a strong personal opinion. The examples are relevant, the vocabulary is sophisticated, and the grammar structures are varied and accurate.",
+        "highlights": [
+            {
+                "text": "fosters creativity and emotional intelligence",
+                "type": "vocabulary",
+                "explanation": "Strong verb-noun collocations capturing personal development benefits.",
+                "example": "Group work fosters collaboration and empathy."
+            },
+            {
+                "text": "exposure to art has been linked to",
+                "type": "structure",
+                "explanation": "Passive structure introducing research-based support.",
+                "example": "Exposure to second languages has been linked to improved memory."
+            },
+            {
+                "text": "competitive world increasingly dominated by",
+                "type": "phrase",
+                "explanation": "Contextual phrase highlighting modern economic or career priorities.",
+                "example": "In a world increasingly dominated by automation, soft skills are gaining importance."
+            },
+            {
+                "text": "cost-effective for schools with limited resources",
+                "type": "phrase",
+                "explanation": "Common phrase discussing education budgeting concerns.",
+                "example": "E-learning platforms are often more cost-effective for schools with limited budgets."
+            },
+            {
+                "text": "well-rounded curriculum",
+                "type": "vocabulary",
+                "explanation": "Describes a balanced educational structure.",
+                "example": "A well-rounded curriculum should include science, arts, and ethics."
+            }
+        ]
     },
     {
-      "text": "essential for societal growth and well-being",
-      "type": "vocabulary",
-      "explanation": "Precise and high-level vocabulary that captures broad impact.",
-      "example": "Access to clean water is essential for societal growth and well-being."
+        "id": "task2-f893b66e",
+        "taskType": "task2",
+        "question": "Artists need a certain amount of freedom to develop their creativity. Some people think that artists should have total freedom to express any thoughts and ideas. To what extent do you agree or disagree?",
+        "answer": "Freedom of expression is fundamental to the creative process. While some argue that artists should be granted total freedom to express any idea, others believe that there should be limits, especially when art intersects with politics, religion, or public morality. I partially agree with the idea of artistic freedom, but I also believe that it must be exercised with social responsibility.\n\nUnlimited freedom allows artists to challenge conventions and stimulate societal progress. History shows that groundbreaking movements—such as Dadaism or Surrealism—were born from unrestrained artistic expression. These forms of art questioned authority and reshaped perspectives, paving the way for cultural revolutions. Moreover, total freedom enables artists to reflect raw human emotions, which often resonate deeply with audiences.\n\nHowever, complete artistic freedom can also result in content that offends or polarizes society. Art that glorifies violence, promotes hate, or disrespects sacred beliefs can create unrest and division. For instance, controversial exhibits have sparked public outrage in various countries, prompting debates on the boundary between freedom and responsibility. Therefore, while censorship should be minimal, some ethical framework is necessary to ensure art remains constructive rather than disruptive.\n\nIn conclusion, although unrestricted artistic expression can fuel innovation and emotional depth, it must be tempered with a sense of accountability. A society that encourages creativity must also ensure that it does not come at the cost of public harmony. Artists should be free—but not at the expense of social unity.",
+        "analysis": "This essay presents a nuanced view with well-structured arguments supporting both artistic freedom and societal responsibility. It uses sophisticated vocabulary, smooth transitions, and rich examples to justify its stance. Sentence structures are varied and grammar is well controlled.",
+        "highlights": [
+            {
+                "text": "Freedom of expression is fundamental to the creative process",
+                "type": "phrase",
+                "explanation": "A high-level introductory phrase setting up the discussion clearly.",
+                "example": "Freedom of expression is fundamental to a functioning democracy."
+            },
+            {
+                "text": "stimulate societal progress",
+                "type": "vocabulary",
+                "explanation": "Describes art’s ability to positively influence culture and society.",
+                "example": "Education reform can stimulate societal progress."
+            },
+            {
+                "text": "questioned authority and reshaped perspectives",
+                "type": "phrase",
+                "explanation": "Powerful phrase showing art's role in challenging the status quo.",
+                "example": "The feminist movement questioned authority and reshaped societal norms."
+            },
+            {
+                "text": "resonate deeply with audiences",
+                "type": "vocabulary",
+                "explanation": "Common expression describing emotional impact.",
+                "example": "Honest storytelling tends to resonate deeply with audiences."
+            },
+            {
+                "text": "offends or polarizes society",
+                "type": "vocabulary",
+                "explanation": "Describes negative effects of unrestrained expression.",
+                "example": "Misinformation often offends or polarizes society."
+            },
+            {
+                "text": "censorship should be minimal",
+                "type": "phrase",
+                "explanation": "Conveys a balanced perspective without advocating total control.",
+                "example": "In a democratic society, censorship should be minimal but fair."
+            },
+            {
+                "text": "tempered with a sense of accountability",
+                "type": "structure",
+                "explanation": "Metaphoric expression showing balance between freedom and responsibility.",
+                "example": "Free speech must be tempered with a sense of accountability."
+            }
+        ]
     },
     {
-      "text": "preserving cultural identity",
-      "type": "vocabulary",
-      "explanation": "Academic collocation frequently used in cultural and social topics.",
-      "example": "Language plays a key role in preserving cultural identity."
+        "id": "task2-15b5c3c3",
+        "taskType": "task2",
+        "question": "Most artists earn low salaries and should therefore receive funding from the government in order for them to continue with their work. To what extent do you agree?",
+        "answer": "Artists play an essential role in enriching society, yet many struggle financially due to the unpredictable nature of their careers. Some argue that governments should provide funding to support these individuals. I strongly agree with this view, as government assistance can preserve cultural diversity and promote public engagement with the arts.\n\nOne major reason to support government funding for artists is the preservation of cultural heritage. Traditional forms of music, painting, and storytelling often survive only through the efforts of dedicated artists. Without financial support, many of these art forms risk extinction, especially in underfunded or rural communities. Public funding ensures that future generations have access to their cultural history and identity.\n\nMoreover, financial aid allows artists to focus on creativity rather than commercial viability. In the absence of funding, many artists are forced to abandon passion projects in favor of more marketable work. For example, experimental theater or independent cinema often struggles to attract private investment but thrives with state support. Government funding thus nurtures artistic innovation and contributes to a richer public cultural life.\n\nIn conclusion, supporting artists through government funding is not just an economic gesture—it is an investment in cultural continuity and innovation. By alleviating financial pressure, societies can empower artists to create freely and contribute meaningfully to collective identity and national pride.",
+        "analysis": "This response presents a clear argument in favor of public support for artists, supported by specific and persuasive examples. The language is formal, precise, and varied, and the structure follows a coherent and logical progression. A strong conclusion reinforces the main points with impact.",
+        "highlights": [
+            {
+                "text": "enriching society",
+                "type": "vocabulary",
+                "explanation": "Concise and powerful way to describe cultural contribution.",
+                "example": "Volunteers play a vital role in enriching society."
+            },
+            {
+                "text": "unpredictable nature of their careers",
+                "type": "phrase",
+                "explanation": "Describes job instability in a formal tone.",
+                "example": "Freelancers often struggle due to the unpredictable nature of their careers."
+            },
+            {
+                "text": "preservation of cultural heritage",
+                "type": "vocabulary",
+                "explanation": "Commonly used phrase in topics about tradition and history.",
+                "example": "Language is essential for the preservation of cultural heritage."
+            },
+            {
+                "text": "risk extinction",
+                "type": "phrase",
+                "explanation": "Describes the potential disappearance of art forms or traditions.",
+                "example": "Many minority languages risk extinction without intervention."
+            },
+            {
+                "text": "focus on creativity rather than commercial viability",
+                "type": "structure",
+                "explanation": "Balanced comparison highlighting core idea.",
+                "example": "Public broadcasting should focus on education rather than commercial viability."
+            },
+            {
+                "text": "contributes to a richer public cultural life",
+                "type": "phrase",
+                "explanation": "Formal phrase summarizing the benefit of funding art.",
+                "example": "Public parks contribute to a richer urban cultural life."
+            },
+            {
+                "text": "investment in cultural continuity and innovation",
+                "type": "vocabulary",
+                "explanation": "High-level phrase capturing both preservation and future value.",
+                "example": "Funding science is an investment in national progress and innovation."
+            }
+        ]
     },
     {
-      "text": "kept alive through state-backed initiatives",
-      "type": "structure",
-      "explanation": "Effective passive voice construction highlighting external support.",
-      "example": "Rare wildlife species are kept alive through conservation efforts."
+        "id": "task2-45ca51e3",
+        "taskType": "task2",
+        "question": "In some countries, a few people earn extremely high salaries. Some people think that this is good for a country, while others believe that the government should control salaries and limit the amount people can earn. Discuss both views and give your opinion.",
+        "answer": "Income disparity is a topic of frequent debate across nations. Some argue that allowing individuals to earn exceptionally high salaries benefits national growth by incentivizing talent and hard work. Others believe such disparities can harm social cohesion and advocate for salary caps imposed by governments. This essay will examine both perspectives before concluding that while high incomes can be beneficial, some regulation is necessary to maintain societal balance.\n\nSupporters of high salaries assert that they reward excellence and drive economic development. High earners often include entrepreneurs, innovators, and skilled professionals whose contributions generate jobs and tax revenue. For example, tech leaders like those in Silicon Valley have built global companies that not only create employment but also push forward technological advancements. Moreover, the potential to earn large sums of money can motivate individuals to invest in education and innovation.\n\nOn the other hand, critics argue that extreme income inequality undermines social equity. When a small fraction of the population holds a disproportionate amount of wealth, it can breed resentment, reduce social mobility, and strain public services. Countries with large income gaps often experience higher crime rates, poorer public health, and weaker community bonds. Limiting salaries, they argue, could reduce this divide and promote a fairer distribution of resources.\n\nIn conclusion, while high salaries can indeed spur innovation and reward achievement, unchecked income disparities may damage societal fabric. Governments should strike a balance—encouraging individual success while implementing fair tax systems and social policies to ensure inclusivity and equality. A prosperous nation is one where success uplifts not just a few, but the many.",
+        "analysis": "This essay clearly addresses both sides of the argument and articulates a balanced personal opinion. Examples are relevant and well explained. The vocabulary is academic, grammar is accurate, and cohesion is smooth throughout.",
+        "highlights": [
+            {
+                "text": "Income disparity is a topic of frequent debate",
+                "type": "phrase",
+                "explanation": "Useful expression to introduce a controversial issue.",
+                "example": "Climate change policy is a topic of frequent debate in politics."
+            },
+            {
+                "text": "reward excellence and drive economic development",
+                "type": "vocabulary",
+                "explanation": "High-level phrase connecting personal success with national benefit.",
+                "example": "Merit-based scholarships reward excellence and drive academic ambition."
+            },
+            {
+                "text": "generate jobs and tax revenue",
+                "type": "phrase",
+                "explanation": "Formal phrase used in economic discussions.",
+                "example": "Infrastructure projects generate jobs and tax revenue."
+            },
+            {
+                "text": "push forward technological advancements",
+                "type": "vocabulary",
+                "explanation": "Describes how innovation leads to progress.",
+                "example": "Investment in research pushes forward technological advancements."
+            },
+            {
+                "text": "breed resentment, reduce social mobility",
+                "type": "structure",
+                "explanation": "Parallel structure showing negative effects.",
+                "example": "Unfair systems breed resentment and reduce trust."
+            },
+            {
+                "text": "weaker community bonds",
+                "type": "vocabulary",
+                "explanation": "Describes erosion of social cohesion.",
+                "example": "Rapid urbanization may lead to weaker community bonds."
+            },
+            {
+                "text": "strike a balance",
+                "type": "phrase",
+                "explanation": "Common idiom used to suggest compromise.",
+                "example": "Parents should strike a balance between discipline and freedom."
+            },
+            {
+                "text": "success uplifts not just a few, but the many",
+                "type": "structure",
+                "explanation": "Emphatic structure to end the essay powerfully.",
+                "example": "Education reform must benefit not just the elite, but the many."
+            }
+        ]
     },
     {
-      "text": "connected to their roots",
-      "type": "phrase",
-      "explanation": "An idiomatic expression for maintaining cultural ties.",
-      "example": "Festivals help people stay connected to their roots."
+        "id": "task2-0f9abcc7",
+        "taskType": "task2",
+        "question": "More and more business meetings are taking place online. What are the advantages and disadvantages of this trend?",
+        "answer": "With the advancement of digital communication tools, an increasing number of business meetings are now held online rather than in physical offices. While this trend offers significant benefits in terms of convenience and cost savings, it also presents certain drawbacks related to engagement and interpersonal connection. This essay explores both the advantages and disadvantages of virtual business meetings.\n\nOne of the most prominent advantages of online meetings is enhanced accessibility and efficiency. Companies can save on travel expenses, accommodation, and venue rentals by switching to digital platforms like Zoom or Microsoft Teams. For example, multinational corporations can coordinate across continents in real time without logistical hurdles. Moreover, online meetings allow employees to balance their work schedules more flexibly, increasing overall productivity.\n\nHowever, virtual meetings can also lead to reduced human interaction and potential miscommunication. Non-verbal cues such as body language, tone, and facial expressions are harder to interpret over a screen, which may hinder understanding and rapport. Additionally, technical glitches and unstable internet connections can disrupt discussions, leading to inefficiencies. There is also a risk of participants becoming distracted or disengaged, especially when meetings are long or repetitive.\n\nIn conclusion, while online business meetings offer undeniable advantages in cost reduction and operational flexibility, they also compromise certain aspects of human communication. To maximize benefits, companies should adopt a hybrid approach—leveraging digital platforms for routine interactions while preserving face-to-face engagement for strategic or high-stakes discussions.",
+        "analysis": "This essay presents a balanced analysis of both the positive and negative sides of online business meetings. It includes specific examples, uses a wide range of vocabulary and grammar, and maintains cohesion throughout the response. The recommendation in the conclusion provides a practical and insightful solution.",
+        "highlights": [
+            {
+                "text": "advancement of digital communication tools",
+                "type": "vocabulary",
+                "explanation": "Describes technological progress in a formal and accurate manner.",
+                "example": "The advancement of digital communication tools has transformed education."
+            },
+            {
+                "text": "enhanced accessibility and efficiency",
+                "type": "phrase",
+                "explanation": "Common collocation in business writing to describe improved operations.",
+                "example": "Cloud computing has led to enhanced accessibility and efficiency."
+            },
+            {
+                "text": "without logistical hurdles",
+                "type": "phrase",
+                "explanation": "Describes ease of coordination without planning or transport issues.",
+                "example": "E-tickets allow travelers to book trips without logistical hurdles."
+            },
+            {
+                "text": "reduced human interaction and potential miscommunication",
+                "type": "vocabulary",
+                "explanation": "Describes a key disadvantage using formal and precise terms.",
+                "example": "Remote learning may result in reduced human interaction and potential miscommunication."
+            },
+            {
+                "text": "non-verbal cues such as body language, tone, and facial expressions",
+                "type": "structure",
+                "explanation": "Well-developed example list to explain abstract concepts.",
+                "example": "Effective communication often relies on non-verbal cues such as eye contact and posture."
+            },
+            {
+                "text": "disrupt discussions, leading to inefficiencies",
+                "type": "structure",
+                "explanation": "Shows cause-effect relationship using clear and formal language.",
+                "example": "Technical errors can delay deliveries, leading to customer dissatisfaction."
+            },
+            {
+                "text": "hybrid approach—leveraging digital platforms",
+                "type": "vocabulary",
+                "explanation": "Professional and solution-oriented phrase commonly used in business contexts.",
+                "example": "Many firms are adopting a hybrid approach to remote work."
+            }
+        ]
     },
     {
-      "text": "fade into obscurity",
-      "type": "phrase",
-      "explanation": "A vivid way to express something becoming forgotten.",
-      "example": "Old traditions are in danger of fading into obscurity."
+        "id": "task2-4d1e89d7",
+        "taskType": "task2",
+        "question": "Due to the development and rapid expansion of supermarkets in some countries, many small, local business are unable to compete. Some people think that the closure of local business will bring about the death of local communities. To what extent do you agree or disagree?",
+        "answer": "The rise of large supermarket chains has significantly reshaped consumer habits and local economies. While some argue that the decline of small, local businesses is a natural outcome of progress, others contend that it poses a serious threat to the survival of local communities. I strongly agree with the latter view, as the disappearance of small enterprises can erode community identity and weaken local social bonds.\n\nOne major consequence of supermarket expansion is the displacement of small, family-run businesses that form the backbone of local economies. These businesses often serve as gathering places, where residents not only shop but also interact, fostering a sense of belonging. For instance, a local bakery or bookstore typically knows its regular customers by name, offering personalized service and fostering familiarity. When such establishments shut down, the communal fabric begins to unravel, reducing both social cohesion and neighborhood vibrancy.\n\nMoreover, the dominance of large retail chains can homogenize consumer choices and funnel wealth out of local areas. Supermarkets often import standardized goods in bulk, pushing out unique, locally produced items that reflect regional culture and craftsmanship. As profits from these chains are typically returned to corporate headquarters rather than reinvested locally, communities suffer long-term economic decline. This not only limits local entrepreneurship but also diminishes the cultural diversity that small businesses help sustain.\n\nIn conclusion, the closure of small, local businesses due to supermarket expansion can indeed spell the gradual decline of local communities. Protecting these enterprises is not merely about economics, but about preserving the identity, culture, and social vitality of a community. Governments and citizens alike must prioritize policies and practices that support local businesses and ensure their continued relevance in an increasingly globalized marketplace.",
+        "analysis": "The essay presents a clear and strongly argued position throughout, directly addressing the task. It maintains logical flow, uses a wide range of vocabulary and sentence structures with precision, and is well-supported with relevant examples and explanations. Paragraphing and cohesion are managed skillfully.",
+        "highlights": [
+            {
+                "text": "reshaped consumer habits and local economies",
+                "type": "phrase",
+                "explanation": "Effectively summarizes the broader impact of supermarkets",
+                "example": "Digital platforms have reshaped consumer habits and business models."
+            },
+            {
+                "text": "poses a serious threat to the survival of local communities",
+                "type": "phrase",
+                "explanation": "Strong language to emphasize consequence",
+                "example": "Climate change poses a serious threat to global ecosystems."
+            },
+            {
+                "text": "I strongly agree with the latter view",
+                "type": "structure",
+                "explanation": "Clear and formal way to state your opinion in an agree/disagree essay",
+                "example": "I strongly agree with the notion that public transport should be free."
+            },
+            {
+                "text": "serve as gathering places",
+                "type": "vocabulary",
+                "explanation": "Descriptive phrase that implies social importance of businesses",
+                "example": "Libraries serve as gathering places for local communities."
+            },
+            {
+                "text": "fostering a sense of belonging",
+                "type": "vocabulary",
+                "explanation": "Good collocation and academic phrase",
+                "example": "Cultural events play a role in fostering a sense of belonging."
+            },
+            {
+                "text": "the communal fabric begins to unravel",
+                "type": "phrase",
+                "explanation": "Metaphor showing community breakdown",
+                "example": "When trust in institutions fades, the communal fabric begins to unravel."
+            },
+            {
+                "text": "homogenize consumer choices",
+                "type": "vocabulary",
+                "explanation": "Strong verb to describe loss of variety",
+                "example": "Global brands tend to homogenize consumer choices."
+            },
+            {
+                "text": "profits from these chains are typically returned to corporate headquarters",
+                "type": "grammar",
+                "explanation": "Complex passive construction showing clarity and precision",
+                "example": "Taxes collected are typically returned to state budgets."
+            },
+            {
+                "text": "not merely about economics, but about preserving the identity",
+                "type": "structure",
+                "explanation": "Balanced sentence structure for strong conclusion",
+                "example": "Climate action is not merely about the environment, but about justice."
+            }
+        ]
     },
     {
-      "text": "reduce stress and foster creativity",
-      "type": "vocabulary",
-      "explanation": "Useful pair of benefits often associated with the arts or mindfulness.",
-      "example": "Painting can reduce stress and foster creativity in children."
+        "id": "task2-59e834c1",
+        "taskType": "task2",
+        "question": "Companies should provide sports and social facilities for local communities. To what extent do you agree?",
+        "answer": "In today's corporate landscape, the role of companies extends beyond profit generation to include social responsibility. One such responsibility is the provision of sports and social facilities for local communities. I completely agree that companies should invest in these initiatives, as they foster goodwill and contribute positively to public health and social cohesion.\n\nProviding sports and social amenities can significantly enhance a company's relationship with the surrounding community. By sponsoring fitness centers, parks, or recreational clubs, businesses demonstrate their commitment to societal well-being, which in turn improves their public image. For instance, multinational firms like Adidas and Tata have launched community sports programs, strengthening their brand reputation while genuinely benefiting the local population. This mutually reinforcing relationship promotes long-term trust and loyalty between businesses and communities.\n\nMoreover, such initiatives have tangible impacts on community health and integration. Access to well-maintained sports facilities encourages physical activity, which reduces public healthcare costs in the long run. Similarly, social venues can bring people from diverse backgrounds together, promoting inclusion and harmony. When companies contribute to these areas, they not only boost community welfare but also indirectly create a healthier and more productive workforce, which ultimately benefits their own operations.\n\nIn conclusion, companies should indeed play an active role in providing sports and social facilities to local communities. These efforts enhance corporate reputation, promote community well-being, and foster social unity. In an era where stakeholder engagement is crucial, investing in such amenities is not just ethical—it’s strategic.",
+        "analysis": "This essay effectively addresses the question with a clear stance and well-developed arguments. It demonstrates a strong command of vocabulary, advanced grammar structures, and excellent cohesion. Examples are relevant and well-integrated, supporting a sophisticated, coherent argument throughout.",
+        "highlights": [
+            {
+                "text": "extends beyond profit generation to include social responsibility",
+                "type": "phrase",
+                "explanation": "Strong introductory phrase showing an evolved corporate role",
+                "example": "Modern education extends beyond exams to include emotional learning."
+            },
+            {
+                "text": "foster goodwill and contribute positively to public health and social cohesion",
+                "type": "vocabulary",
+                "explanation": "Good collocations and formal tone appropriate for Task 2",
+                "example": "Urban greening fosters goodwill and contributes to environmental stability."
+            },
+            {
+                "text": "demonstrate their commitment to societal well-being",
+                "type": "phrase",
+                "explanation": "Strong academic phrase showing action with ethical intent",
+                "example": "Universities must demonstrate their commitment to diversity and inclusion."
+            },
+            {
+                "text": "mutually reinforcing relationship",
+                "type": "vocabulary",
+                "explanation": "Advanced phrase describing positive interdependence",
+                "example": "Education and innovation have a mutually reinforcing relationship."
+            },
+            {
+                "text": "tangible impacts on community health and integration",
+                "type": "vocabulary",
+                "explanation": "Precise language combining measurable and social outcomes",
+                "example": "Access to clean water has tangible impacts on health outcomes."
+            },
+            {
+                "text": "reduce public healthcare costs in the long run",
+                "type": "structure",
+                "explanation": "Cause-effect structure using future implications",
+                "example": "Investing in education reduces unemployment rates in the long run."
+            },
+            {
+                "text": "bring people from diverse backgrounds together",
+                "type": "phrase",
+                "explanation": "Inclusive and relevant in discussions on social unity",
+                "example": "Festivals bring people from diverse backgrounds together in celebration."
+            },
+            {
+                "text": "not just ethical—it’s strategic",
+                "type": "structure",
+                "explanation": "Rhetorical sentence ending with a strong point",
+                "example": "Climate action is not just necessary—it’s inevitable."
+            }
+        ]
     },
     {
-      "text": "stimulate local economies",
-      "type": "vocabulary",
-      "explanation": "Economics-related collocation, shows financial impact.",
-      "example": "Tourism can stimulate local economies in rural areas."
+        "id": "task2-6ac4b2f1",
+        "taskType": "task2",
+        "question": "If the product is good and meets consumer needs then advertising is unnecessary. To what extent do you agree?",
+        "answer": "In the age of digital consumerism, advertising has become a cornerstone of modern business strategies. Some argue that if a product is genuinely good and satisfies customer needs, then advertising is redundant. While the intrinsic value of a quality product is undeniable, I strongly disagree with the notion that advertising is unnecessary, as it plays a vital role in consumer awareness, brand positioning, and market competitiveness.\n\nAdvertising is essential for creating awareness, even for high-quality products. In a competitive marketplace flooded with choices, customers often make purchasing decisions based on familiarity and visibility. A superior product that remains unknown is unlikely to succeed. For example, many innovative startups fail not due to poor product design but because of a lack of effective promotion. Advertising bridges this gap by informing consumers of the product’s existence, features, and benefits.\n\nMoreover, advertising helps companies build brand identity and foster consumer loyalty. Through consistent messaging, companies can create emotional connections and distinguish their product from similar offerings. For instance, Apple’s advertising does not merely describe product specifications—it evokes a lifestyle and ethos, drawing customers into a long-term relationship with the brand. Even when the product quality is already established, strategic advertising reinforces the brand image and sustains its market presence.\n\nIn conclusion, although a good product is the foundation of any successful business, advertising remains a critical tool in communicating its value to the public. It enhances visibility, shapes perception, and ensures sustained engagement in a competitive environment. Therefore, advertising is not only relevant but indispensable, even for products that meet or exceed consumer expectations.",
+        "analysis": "The essay provides a clear, well-structured argument supported by relevant examples. Vocabulary is advanced and appropriate, grammar usage is sophisticated, and the ideas flow logically. The position is clearly stated and reinforced throughout, satisfying all IELTS Band 9 criteria.",
+        "highlights": [
+            {
+                "text": "a cornerstone of modern business strategies",
+                "type": "phrase",
+                "explanation": "Metaphorical phrase to emphasize importance",
+                "example": "Innovation is the cornerstone of modern education systems."
+            },
+            {
+                "text": "intrinsic value of a quality product",
+                "type": "vocabulary",
+                "explanation": "Refined phrase showing abstract understanding of product worth",
+                "example": "The intrinsic value of art is often difficult to quantify."
+            },
+            {
+                "text": "plays a vital role in consumer awareness, brand positioning, and market competitiveness",
+                "type": "structure",
+                "explanation": "Tripartite structure adds rhetorical strength",
+                "example": "Education plays a vital role in personal growth, civic engagement, and national development."
+            },
+            {
+                "text": "flooded with choices",
+                "type": "phrase",
+                "explanation": "Vivid phrase describing market oversaturation",
+                "example": "The app store is flooded with choices, making selection difficult."
+            },
+            {
+                "text": "remains unknown is unlikely to succeed",
+                "type": "grammar",
+                "explanation": "Present simple with passive voice for general truth",
+                "example": "A message that remains unclear is unlikely to persuade."
+            },
+            {
+                "text": "build brand identity and foster consumer loyalty",
+                "type": "vocabulary",
+                "explanation": "Marketing terminology with strong verb collocations",
+                "example": "Consistent communication helps build brand identity."
+            },
+            {
+                "text": "evokes a lifestyle and ethos",
+                "type": "vocabulary",
+                "explanation": "Sophisticated phrase to describe emotional marketing",
+                "example": "The campaign evokes a lifestyle of freedom and simplicity."
+            },
+            {
+                "text": "not only relevant but indispensable",
+                "type": "structure",
+                "explanation": "Parallelism with 'not only...but also' to emphasize necessity",
+                "example": "Education is not only important but indispensable for development."
+            }
+        ]
     },
     {
-      "text": "generated over £100 billion",
-      "type": "vocabulary",
-      "explanation": "Use of quantitative data to strengthen argument.",
-      "example": "The IT industry generated over $300 billion last year."
+        "id": "task2-ec8034d3",
+        "taskType": "task2",
+        "question": "Large businesses have big budgets for marketing and promotion and as a result, people gravitate towards buying their products. What problems does this cause? What could be done to encourage people to buy local products?",
+        "answer": "In today’s consumer-driven world, large corporations dominate the market through aggressive advertising and promotional strategies. This trend often draws consumers away from local alternatives. This essay will explore the problems created by such market imbalance and suggest practical measures to promote local products.\n\nOne major issue is the decline of small and local businesses that cannot compete with multinational marketing power. As consumers increasingly choose global brands, local enterprises struggle to survive, resulting in reduced economic diversity and loss of community-based employment. For example, the expansion of global coffee chains has led to the closure of many independent cafes.\nFurthermore, consumer choices become homogenized, limiting cultural variety and promoting a one-size-fits-all market dominated by a few powerful players. This erodes regional identity and diminishes the uniqueness of local goods and traditions.\n\nTo address these concerns, governments and communities can implement strategies to support local products. One effective approach is offering subsidies, tax incentives, or grants to local businesses, helping them improve visibility and competitiveness.\nAdditionally, public awareness campaigns highlighting the environmental and economic benefits of buying locally can influence consumer behavior. Farmers’ markets, “Buy Local” campaigns, and eco-labeling have already proven successful in many countries in shifting public preference toward regional products.\n\nIn conclusion, the overwhelming influence of large businesses in marketing creates serious challenges for local economies and cultural diversity. However, with the support of government policies and community-driven initiatives, consumers can be guided toward making more conscious and locally supportive purchasing decisions. Encouraging local consumption is not only economically important but also essential for preserving identity and sustainability.",
+        "analysis": "The essay presents a balanced discussion with clear paragraphing, strong arguments, and well-developed examples. Vocabulary is advanced and varied, grammar is accurate and flexible, and the overall structure aligns with IELTS Band 9 expectations.",
+        "highlights": [
+            {
+                "text": "consumer-driven world",
+                "type": "vocabulary",
+                "explanation": "A descriptive phrase highlighting market dynamics",
+                "example": "In a consumer-driven world, branding plays a major role in purchasing behavior."
+            },
+            {
+                "text": "draws consumers away from local alternatives",
+                "type": "phrase",
+                "explanation": "Effectively illustrates how advertising influences decisions",
+                "example": "Aggressive pricing can draw consumers away from sustainable products."
+            },
+            {
+                "text": "reduced economic diversity and loss of community-based employment",
+                "type": "structure",
+                "explanation": "Complex noun phrase showing multifaceted consequences",
+                "example": "Automation has led to reduced economic diversity in rural areas."
+            },
+            {
+                "text": "consumer choices become homogenized",
+                "type": "vocabulary",
+                "explanation": "Advanced expression showing loss of variety",
+                "example": "When global franchises dominate, consumer choices become homogenized."
+            },
+            {
+                "text": "erodes regional identity",
+                "type": "phrase",
+                "explanation": "Metaphoric phrase indicating cultural decline",
+                "example": "Tourism can sometimes erode regional identity by promoting stereotypes."
+            },
+            {
+                "text": "subsidies, tax incentives, or grants",
+                "type": "structure",
+                "explanation": "List structure demonstrating variety of solutions",
+                "example": "Governments can provide subsidies, training programs, or financial literacy courses."
+            },
+            {
+                "text": "public awareness campaigns",
+                "type": "vocabulary",
+                "explanation": "Government or NGO-led efforts to inform the public",
+                "example": "Public awareness campaigns are key to reducing plastic waste."
+            },
+            {
+                "text": "more conscious and locally supportive purchasing decisions",
+                "type": "grammar",
+                "explanation": "Adjective-noun structure using parallel modifiers",
+                "example": "People are making more conscious and environmentally friendly choices."
+            },
+            {
+                "text": "preserving identity and sustainability",
+                "type": "phrase",
+                "explanation": "Summarizes the broader social goal",
+                "example": "Traditional education helps in preserving identity and sustainability in culture."
+            }
+        ]
     },
     {
-      "text": "not just cultural capital, but economic as well",
-      "type": "structure",
-      "explanation": "Parallel structure to compare two types of value.",
-      "example": "Education is not just a personal benefit, but a national asset as well."
+        "id": "task2-41137d87",
+        "taskType": "task2",
+        "question": "Some people fail in school, but end up being successful in life. Why do you think that is the case? What is the most important thing to succeed in life?",
+        "answer": "Success in life is often associated with academic performance, yet many individuals who struggled in school go on to achieve remarkable success in their careers and personal lives. This contrast raises questions about the factors that truly determine success. In my opinion, real-life achievement depends more on traits like resilience, creativity, and emotional intelligence rather than formal education alone...\n[continued as above]",
+        "analysis": "This essay strongly addresses both questions in a clear and balanced way, using specific examples and high-level reasoning. It features well-structured paragraphs, excellent cohesion, and a wide range of vocabulary and grammar. The ideas are fully extended, explained, and relevant throughout.",
+        "highlights": [
+            {
+                "text": "Success in life is often associated with academic performance",
+                "type": "phrase",
+                "explanation": "Introduces a commonly held belief — great for setting up the contrast",
+                "example": "Happiness is often associated with wealth, but this is not always the case."
+            },
+            {
+                "text": "traits like resilience, creativity, and emotional intelligence",
+                "type": "vocabulary",
+                "explanation": "These are powerful, specific traits that reflect a high level of lexical resource",
+                "example": "Leadership requires adaptability, strategic thinking, and emotional intelligence."
+            },
+            {
+                "text": "illustrates that a willingness to take initiative",
+                "type": "structure",
+                "explanation": "Shows effective use of a subordinate clause to explain a previous point",
+                "example": "This demonstrates that effort and discipline can compensate for lack of talent."
+            },
+            {
+                "text": "academic environments often reward conformity and rote learning",
+                "type": "vocabulary",
+                "explanation": "Critically evaluates education using precise terms like 'rote learning' and 'conformity'",
+                "example": "Many schools still rely on rote memorization instead of encouraging independent thinking."
+            },
+            {
+                "text": "the most important ingredient for success",
+                "type": "phrase",
+                "explanation": "A metaphor that adds depth and variety to writing",
+                "example": "Discipline is the key ingredient for achieving long-term goals."
+            },
+            {
+                "text": "emotional intelligence — the ability to understand and manage one’s own emotions",
+                "type": "structure",
+                "explanation": "Uses a dash to define a key term mid-sentence — a high-level writing technique",
+                "example": "Empathy — the ability to relate to others’ emotions — is vital in leadership."
+            },
+            {
+                "text": "Educational institutions and society at large should therefore broaden their definition of success",
+                "type": "grammar",
+                "explanation": "Proper use of modal verb structure with a clear call to action",
+                "example": "Governments should invest more in public transport systems."
+            }
+        ]
     },
     {
-      "text": "valid arguments for redirecting public funds",
-      "type": "phrase",
-      "explanation": "Shows balance by acknowledging the opposing view.",
-      "example": "There are valid arguments for increasing defense budgets."
+        "id": "task2-ambition-success",
+        "taskType": "task2",
+        "question": "Some people think that ambition is essential for success. To what extent do you agree?",
+        "answer": "Ambition is often seen as a key driver behind personal and professional achievement. While some argue that other traits like charisma, communication skills, or emotional intelligence are equally vital, I firmly believe that ambition is a foundational quality that fuels perseverance, learning, and long-term success...\n[continued as above]",
+        "analysis": "This essay effectively presents a well-developed position on the role of ambition in success. The introduction frames the topic clearly, and both body paragraphs provide balanced, detailed arguments supported by real-world examples. The conclusion reinforces the thesis while also offering forward-looking insights. Strong vocabulary, varied structures, and logical cohesion contribute to a Band 9 level response.",
+        "highlights": [
+            {
+                "text": "Ambition is often seen as a key driver",
+                "type": "phrase",
+                "explanation": "Strong topic sentence that introduces the theme using academic tone",
+                "example": "Discipline is often seen as a key driver of student success."
+            },
+            {
+                "text": "a clear vision of what they want to achieve",
+                "type": "vocabulary",
+                "explanation": "Descriptive phrase that shows purpose and direction",
+                "example": "Effective leaders often have a clear vision and strategic goals."
+            },
+            {
+                "text": "relentless ambition that pushed them beyond failure",
+                "type": "phrase",
+                "explanation": "Strong use of adjective and metaphor to describe drive",
+                "example": "Her relentless optimism kept the team focused during difficult times."
+            },
+            {
+                "text": "Ambition also acts as a catalyst for self-improvement",
+                "type": "structure",
+                "explanation": "Metaphorical language to show cause-effect relationship",
+                "example": "Failure often acts as a catalyst for reflection and growth."
+            },
+            {
+                "text": "amplify the effect of ambition",
+                "type": "vocabulary",
+                "explanation": "Precise use of verb to express enhancement or intensification",
+                "example": "Technology can amplify the impact of good teaching."
+            },
+            {
+                "text": "ambition still remains the driving force",
+                "type": "phrase",
+                "explanation": "Reinforces central argument with a powerful metaphor",
+                "example": "Curiosity remains the driving force behind scientific discovery."
+            },
+            {
+                "text": "nurturing ambition is more important than ever",
+                "type": "grammar",
+                "explanation": "Use of gerund as subject in a strong call-to-action sentence",
+                "example": "Investing in education is more important than ever in today’s economy."
+            },
+            {
+                "text": "lays the groundwork upon which other traits can flourish",
+                "type": "structure",
+                "explanation": "Elegant complex sentence structure using metaphor",
+                "example": "Education lays the groundwork upon which lifelong learning is built."
+            }
+        ]
     },
     {
-      "text": "neither wasteful nor secondary",
-      "type": "grammar",
-      "explanation": "Use of correlative conjunction 'neither...nor' to refute criticism.",
-      "example": "The project is neither risky nor unprofitable."
+        "id": "task2-f00cb55f",
+        "taskType": "task2",
+        "question": "The first impression you have of a person is the best way to judge a person. Do you agree?",
+        "answer": "First impressions play a pivotal role in shaping our perceptions of others, often influencing how we treat and evaluate them. While some argue that initial encounters provide the most accurate measure of a person’s character, others believe that deeper understanding over time is more revealing. I partially agree with this notion—though first impressions can be insightful, they are not always reliable indicators of someone’s true nature.\n\nOn the one hand, first impressions can offer valuable cues about a person's behavior and professionalism. Human instincts are often shaped by evolution to quickly assess trustworthiness or social compatibility. For instance, in job interviews, employers often rely on body language, eye contact, and attire to form an early judgment of a candidate’s confidence and preparedness. These quick assessments help save time in decision-making processes and are often backed by experience.\n\nHowever, basing one's entire judgment on a first encounter can be misleading. External factors such as nervousness, cultural differences, or a bad day can affect how someone presents themselves initially. A person who seems aloof or disinterested at first may, upon deeper acquaintance, turn out to be thoughtful and dependable. Long-term relationships—be it personal or professional—require time, interaction, and shared experiences to truly understand someone’s character.\n\nIn conclusion, while first impressions can offer useful initial information, they should not be the sole basis for judging a person. It is essential to allow time and experience to paint a fuller picture. In an increasingly global and interconnected world, fostering patience and understanding is not only wise but necessary.",
+        "analysis": "The response addresses the task with a well-balanced viewpoint and structured argument. The position is clearly stated, and each paragraph supports the main point with specific examples. Vocabulary is varied and accurate, and grammatical structures are skillfully controlled.",
+        "highlights": [
+            {
+                "text": "play a pivotal role",
+                "type": "phrase",
+                "explanation": "This is a strong idiomatic phrase that elevates the introduction.",
+                "example": "Technology plays a pivotal role in modern education."
+            },
+            {
+                "text": "I partially agree with this notion",
+                "type": "structure",
+                "explanation": "Clearly states the position using formal academic style.",
+                "example": "I partially agree with the claim that technology improves creativity."
+            },
+            {
+                "text": "Human instincts are often shaped by evolution",
+                "type": "vocabulary",
+                "explanation": "Strong use of scientific language to support a social point.",
+                "example": "Human instincts are shaped by evolutionary needs, such as survival and cooperation."
+            },
+            {
+                "text": "External factors such as nervousness, cultural differences, or a bad day",
+                "type": "structure",
+                "explanation": "Effective listing to support the counterargument with relatable examples.",
+                "example": "Students may perform poorly due to factors like stress, illness, or personal issues."
+            },
+            {
+                "text": "fostering patience and understanding",
+                "type": "vocabulary",
+                "explanation": "High-level verb that shows positive social attitude.",
+                "example": "Fostering cultural awareness in schools is crucial for social harmony."
+            },
+            {
+                "text": "Long-term relationships—be it personal or professional",
+                "type": "grammar",
+                "explanation": "Demonstrates a complex sentence structure using em dash and conditional phrase.",
+                "example": "Every long-term partnership—whether in business or life—requires mutual respect."
+            }
+        ]
     },
     {
-      "text": "vital thread in the fabric of progress",
-      "type": "phrase",
-      "explanation": "A metaphorical expression illustrating the importance of the arts.",
-      "example": "Education is a vital thread in the fabric of any nation's progress."
+        "id": "task2-79c12aef",
+        "taskType": "task2",
+        "question": "Some people enjoy change in life, while other people try to avoid it. What are the advantages and disadvantages of both approaches?",
+        "answer": "Change is an inevitable part of human life, yet people differ in their attitudes towards it. While some individuals thrive on novelty and unpredictability, others find comfort in consistency and routine. This essay will explore the benefits and drawbacks of both embracing and avoiding change.\n\nThose who welcome change often experience personal growth and new opportunities. Change exposes individuals to new environments, perspectives, and challenges, which can broaden their skills and adaptability. For instance, professionals who switch careers or relocate frequently may develop diverse competencies and build resilience. However, the constant pursuit of change may also lead to instability and stress. An ever-changing lifestyle can make it difficult to form long-term relationships, achieve mastery in one domain, or maintain a clear direction in life.\n\nConversely, people who avoid change tend to enjoy stability, predictability, and a sense of control. This approach can foster deep expertise, stronger relationships, and emotional security. For example, someone who remains in the same profession for decades may develop a strong sense of identity and become highly respected in their field. On the downside, excessive resistance to change can result in missed opportunities and stagnation. Individuals may become inflexible, struggle to cope with unexpected life events, and fall behind in a rapidly evolving world.\n\nIn conclusion, both embracing and avoiding change have their merits and downsides. While change can foster growth, it may also lead to uncertainty; similarly, routine can provide stability but may hinder progress. Therefore, a balanced approach that includes openness to change while maintaining core values and routines may be the most beneficial in today’s dynamic world.",
+        "analysis": "This essay addresses the task fully, discussing both views clearly and presenting a well-reasoned conclusion. The use of vocabulary is varied and natural, sentence structures are complex and accurate, and the overall coherence and cohesion are excellent.",
+        "highlights": [
+            {
+                "text": "Change is an inevitable part of human life",
+                "type": "phrase",
+                "explanation": "A natural and formal way to introduce the topic",
+                "example": "Conflict is an inevitable part of human relationships."
+            },
+            {
+                "text": "thrive on novelty and unpredictability",
+                "type": "vocabulary",
+                "explanation": "Strong descriptive phrase showing a positive view of change",
+                "example": "Entrepreneurs often thrive on novelty and unpredictability."
+            },
+            {
+                "text": "exposes individuals to new environments, perspectives, and challenges",
+                "type": "structure",
+                "explanation": "Well-structured listing to elaborate a benefit",
+                "example": "Travel exposes students to new cultures, languages, and ways of life."
+            },
+            {
+                "text": "develop diverse competencies and build resilience",
+                "type": "vocabulary",
+                "explanation": "High-level vocabulary for personal development",
+                "example": "Internships help students develop diverse competencies and build resilience."
+            },
+            {
+                "text": "emotional security",
+                "type": "vocabulary",
+                "explanation": "Precise word choice for psychological stability",
+                "example": "Close family bonds contribute to emotional security in children."
+            },
+            {
+                "text": "missed opportunities and stagnation",
+                "type": "phrase",
+                "explanation": "Effective expression of the drawbacks of avoiding change",
+                "example": "Fear of failure can lead to missed opportunities and stagnation."
+            },
+            {
+                "text": "a balanced approach that includes openness to change while maintaining core values",
+                "type": "structure",
+                "explanation": "Sophisticated structure for conclusion with dual perspective",
+                "example": "Governments need a balanced approach that includes market freedom while maintaining regulation."
+            }
+        ]
     },
     {
-      "text": "Rather than viewing the arts as a luxury",
-      "type": "grammar",
-      "explanation": "Complex sentence with contrasting clause using 'rather than'.",
-      "example": "Rather than punishing children, we should focus on understanding them."
+        "id": "task2-2e4c8f9b",
+        "taskType": "task2",
+        "question": "People were happier in previous generations compared to now. To what extent do you agree?",
+        "answer": "It is often claimed that people in earlier generations led happier lives than those in the modern era. While technological progress and improved living standards have undeniably transformed life today, this essay will argue that previous generations may have enjoyed a more fulfilling life due to deeper social connections and simpler lifestyles, despite the many conveniences of the present.\n\nOne of the main reasons previous generations may have experienced more happiness is the strength of social bonds. Communities were smaller and more tightly knit, encouraging deeper interpersonal relationships and mutual support. For instance, neighbors frequently engaged in collective activities, and families often lived in close proximity, fostering a strong sense of belonging and emotional security. Moreover, the slower pace of life allowed individuals to enjoy simple pleasures without the constant pressure to perform or compete.\n\nOn the other hand, today’s advancements in technology, healthcare, and communication have provided people with unprecedented convenience and opportunities. From instant access to information to global travel, the modern world offers luxuries that were unimaginable in the past. However, this constant connectivity and consumerism have also brought stress, social isolation, and a rise in mental health issues. Many people today report feeling overwhelmed by the demands of modern life, suggesting that material progress has not necessarily translated into emotional well-being.\n\nIn conclusion, although modern society offers greater convenience and choice, previous generations may have led happier lives due to stronger community ties and a more balanced lifestyle. Therefore, I agree to a considerable extent that people in the past were generally happier, even if they lacked some of today’s technological comforts.",
+        "analysis": "The essay presents a well-balanced argument with clear structure and coherence. It discusses both perspectives before providing a thoughtful opinion, supported by realistic examples. Vocabulary and grammar are varied and used precisely throughout, meeting Band 9 standards.",
+        "highlights": [
+            {
+                "text": "It is often claimed that people in earlier generations led happier lives",
+                "type": "phrase",
+                "explanation": "Formal and neutral way to introduce the essay topic",
+                "example": "It is often claimed that children today are less active than before."
+            },
+            {
+                "text": "deeper social connections and simpler lifestyles",
+                "type": "vocabulary",
+                "explanation": "Expresses the contrast between past and present life meaningfully",
+                "example": "Rural areas are known for their simpler lifestyles and close-knit communities."
+            },
+            {
+                "text": "strong sense of belonging and emotional security",
+                "type": "vocabulary",
+                "explanation": "High-level vocabulary for psychological benefits",
+                "example": "Supportive families provide emotional security to children."
+            },
+            {
+                "text": "unprecedented convenience and opportunities",
+                "type": "vocabulary",
+                "explanation": "Advanced phrase to show the modern world's benefits",
+                "example": "Online education offers unprecedented access to learning resources."
+            },
+            {
+                "text": "constant connectivity and consumerism",
+                "type": "phrase",
+                "explanation": "Concise and relevant phrase capturing modern life’s challenges",
+                "example": "The stress of constant connectivity has led to digital fatigue."
+            },
+            {
+                "text": "material progress has not necessarily translated into emotional well-being",
+                "type": "structure",
+                "explanation": "Complex sentence structure conveying a subtle idea",
+                "example": "Economic growth has not necessarily translated into environmental protection."
+            },
+            {
+                "text": "I agree to a considerable extent",
+                "type": "grammar",
+                "explanation": "Useful variation of agreement phrase in opinion-based questions",
+                "example": "I agree to a considerable extent that social media affects productivity."
+            }
+        ]
+    },
+    {
+        "id": "task2-8f39db27",
+        "taskType": "task2",
+        "question": "The crime rate nowadays is decreasing compared to the past due to advanced technology which can prevent and solve crime. Do you agree or disagree?",
+        "answer": "With the rapid advancement of technology, many argue that crime rates have decreased as a result of improved crime prevention and detection methods. This essay agrees with the statement, as technologies such as surveillance systems and forensic tools have significantly enhanced the ability of law enforcement to deter criminal activity and solve complex cases efficiently.\n\nOne major way technology helps reduce crime is through deterrence. The widespread use of CCTV cameras, facial recognition systems, and smart alarms has increased the risk of being caught, which discourages potential offenders. For instance, cities with dense surveillance networks have reported lower incidents of street crimes, as criminals are aware they are being watched. Additionally, predictive policing algorithms allow authorities to identify crime-prone areas and deploy resources more strategically, thereby preventing crimes before they occur.\n\nMoreover, technological advancements have revolutionized criminal investigations. DNA profiling, digital forensics, and data analytics have enabled police to solve cases with far greater accuracy and speed. Cold cases that remained unresolved for years have been solved through improved genetic analysis. Furthermore, mobile tracking and cybersecurity tools help trace online fraud and cybercrimes more effectively, increasing the chances of apprehending perpetrators and delivering justice.\n\nIn conclusion, advanced technology has played a vital role in both preventing and solving crimes, thereby contributing to a noticeable decline in crime rates. Although challenges remain, I strongly agree that modern technological tools have made societies safer and more secure than in the past.",
+        "analysis": "This is a well-developed essay with a strong argument that aligns with the prompt. Each paragraph clearly explains how technology reduces crime, using specific and relevant examples. The vocabulary is precise, sentence structures are varied, and transitions between ideas are smooth. It fully meets the Band 9 criteria.",
+        "highlights": [
+            {
+                "text": "crime rates have decreased as a result of improved crime prevention and detection methods",
+                "type": "structure",
+                "explanation": "Complex sentence clearly linking technology with reduced crime.",
+                "example": "Pollution has dropped due to improved environmental policies and regulations."
+            },
+            {
+                "text": "discourages potential offenders",
+                "type": "vocabulary",
+                "explanation": "Advanced vocabulary suitable for crime-related topics.",
+                "example": "Strict penalties discourage potential offenders from repeating crimes."
+            },
+            {
+                "text": "predictive policing algorithms",
+                "type": "vocabulary",
+                "explanation": "Topic-specific terminology showing deep understanding.",
+                "example": "Predictive policing algorithms can identify likely hotspots for crime."
+            },
+            {
+                "text": "revolutionized criminal investigations",
+                "type": "phrase",
+                "explanation": "High-level phrase for describing transformative impact.",
+                "example": "AI has revolutionized how medical diagnoses are conducted."
+            },
+            {
+                "text": "Cold cases that remained unresolved for years have been solved through improved genetic analysis",
+                "type": "structure",
+                "explanation": "Complex example effectively illustrating the point.",
+                "example": "Old diseases have been treated successfully through genetic breakthroughs."
+            },
+            {
+                "text": "I strongly agree that modern technological tools have made societies safer",
+                "type": "grammar",
+                "explanation": "Clear personal opinion using a strong agreement phrase.",
+                "example": "I strongly agree that early education is crucial for child development."
+            }
+        ]
+    },
+    {
+        "id": "task2-b305c9aa",
+        "taskType": "task2",
+        "question": "Many criminals commit further crimes as soon as they are released from prison. What do you think are the causes of this? What possible solutions can you suggest?",
+        "answer": "Recidivism, or the tendency of released criminals to reoffend, remains a pressing issue in many justice systems around the world. This essay will explore the main causes behind this pattern, including lack of rehabilitation and societal stigma, and will suggest possible solutions such as improved reintegration programs and greater employment support.\n\nOne key reason many ex-convicts return to crime is the lack of effective rehabilitation in prison. In many countries, prisons focus more on punishment than on reform, meaning inmates are released without the skills or mindset needed to reintegrate. Moreover, former prisoners face intense stigma from society. Employers are often reluctant to hire someone with a criminal record, which limits their legitimate means of earning a livelihood. As a result, many return to illegal activities out of financial desperation or social exclusion.\n\nTo break this cycle, governments should prioritize rehabilitation and reintegration. Prisons should offer educational and vocational training programs that equip inmates with marketable skills. Norway, for instance, has one of the lowest recidivism rates due to its emphasis on humane treatment and rehabilitation. In addition, incentives should be provided to employers who are willing to hire ex-offenders. Public awareness campaigns can also help reduce stigma, encouraging society to support former criminals in becoming law-abiding citizens.\n\nIn conclusion, reoffending is often the result of inadequate rehabilitation and societal rejection. However, by transforming prisons into centers of reform and supporting ex-convicts through employment and social acceptance, governments can reduce repeat offenses and promote safer communities.",
+        "analysis": "The essay presents a balanced and insightful response to the problem-solution task. It addresses both causes and solutions with clarity, providing real-world examples and policy recommendations. Cohesion, coherence, and lexical resource are excellent throughout, meeting Band 9 criteria.",
+        "highlights": [
+            {
+                "text": "Recidivism, or the tendency of released criminals to reoffend",
+                "type": "vocabulary",
+                "explanation": "Use of precise academic vocabulary with definition.",
+                "example": "Obesity, or the excessive accumulation of body fat, is a growing health issue."
+            },
+            {
+                "text": "intense stigma from society",
+                "type": "vocabulary",
+                "explanation": "High-level phrase capturing a key social issue.",
+                "example": "Many people recovering from addiction face intense stigma in the workplace."
+            },
+            {
+                "text": "Norway, for instance, has one of the lowest recidivism rates",
+                "type": "example",
+                "explanation": "Specific, real-world example that strengthens the argument.",
+                "example": "Finland, for example, has one of the best education systems due to its focus on equality."
+            },
+            {
+                "text": "transforming prisons into centers of reform",
+                "type": "phrase",
+                "explanation": "Effective metaphor that enhances clarity and sophistication.",
+                "example": "Transforming classrooms into hubs of innovation can inspire students."
+            },
+            {
+                "text": "support former criminals in becoming law-abiding citizens",
+                "type": "grammar",
+                "explanation": "Well-structured infinitive phrase showing purpose and clarity.",
+                "example": "Support young people in becoming independent adults."
+            }
+        ]
+    },
+    {
+        "id": "task2-7f92d32a",
+        "taskType": "task2",
+        "question": "It is often thought that the increase in juvenile crime can be attributed to violence in the media. Do you agree that this is the main cause of juvenile crime? What solutions can you offer to deal with this situation?",
+        "answer": "Juvenile crime is a growing concern in many societies, and some argue that violent content in media is largely to blame. While media violence may influence impressionable minds, I believe it is not the sole cause of youth crime. This essay will examine the role of media and highlight other significant contributors such as family environment and lack of education, followed by possible solutions.\n\nThere is no denying that constant exposure to violence through television, video games, and social media can desensitize young people and normalize aggressive behavior. Teenagers, in particular, may imitate what they see, especially when violent characters are glorified. However, not all youth who consume violent media engage in crime, suggesting that media alone is not the root cause.\n\nA more substantial factor is a troubled family background. Juveniles from abusive, neglectful, or financially unstable homes are more likely to commit crimes due to lack of guidance and emotional support. In addition, poor access to education and limited employment opportunities can push youth towards illegal activities. To address this, governments must invest in community programs that support at-risk families, promote school engagement, and provide mentorship. Furthermore, stricter regulation of violent content and parental monitoring can reduce media’s negative impact.\n\nIn conclusion, while media violence does play a role in juvenile crime, it is not the primary cause. A combination of poor family dynamics and socio-economic disadvantages is more influential. Tackling the issue requires a multi-pronged approach involving family support, education, and content regulation.",
+        "analysis": "The essay fully addresses the task by discussing both the proposed main cause and offering multiple, well-developed solutions. Arguments are logically organized and supported with clear examples. Vocabulary, coherence, and grammatical range meet Band 9 standards.",
+        "highlights": [
+            {
+                "text": "Juvenile crime is a growing concern in many societies",
+                "type": "structure",
+                "explanation": "Strong topic introduction that frames the issue clearly.",
+                "example": "Obesity is an increasing public health challenge in many countries."
+            },
+            {
+                "text": "desensitize young people and normalize aggressive behavior",
+                "type": "vocabulary",
+                "explanation": "High-level vocabulary expressing psychological and social impacts.",
+                "example": "Repeated exposure to violent news may desensitize viewers to suffering."
+            },
+            {
+                "text": "Teenagers, in particular, may imitate what they see",
+                "type": "structure",
+                "explanation": "Clear causal relationship stated with a qualifying clause.",
+                "example": "Children, in particular, are likely to mimic the behavior of adults around them."
+            },
+            {
+                "text": "more likely to commit crimes due to lack of guidance and emotional support",
+                "type": "phrase",
+                "explanation": "Cause-effect relationship stated clearly and fluently.",
+                "example": "Many students drop out of school due to lack of encouragement and financial support."
+            },
+            {
+                "text": "a multi-pronged approach involving family support, education, and content regulation",
+                "type": "vocabulary",
+                "explanation": "Advanced phrase showing a comprehensive solution framework.",
+                "example": "A multi-faceted solution is necessary to tackle climate change effectively."
+            }
+        ]
+    },
+    {
+        "id": "task2-teen-crime-punishment",
+        "taskType": "task2",
+        "question": "In some societies, the number of crimes committed by teenagers is growing. Some people think that regardless of age, teenagers who commit major crimes should receive adult punishment. To what extent do you agree?",
+        "answer": "The rise in juvenile crime in certain societies has sparked debate about how young offenders should be punished. While some argue that teenagers who commit serious crimes deserve the same punishment as adults, others believe their age and maturity must be considered. I partially agree with the former view, but believe that a balanced approach is necessary to achieve justice and promote rehabilitation.\n\nThose who support adult punishment for teenage offenders argue that the nature of the crime should outweigh the age of the criminal. In cases involving murder, assault, or terrorism, the consequences are equally devastating regardless of who committed them. By imposing adult sentences, the justice system may deter other teenagers from committing similar offenses and uphold public trust in legal fairness.\n\nHowever, treating all teenage offenders like adults ignores the psychological and developmental differences between the two groups. Teenagers often lack the emotional maturity and foresight to fully comprehend the consequences of their actions. Moreover, exposure to adult prisons may further criminalize them instead of reforming them. A justice system that balances accountability with rehabilitation—such as juvenile detention combined with education and counseling—can reduce repeat offenses more effectively.\n\nIn conclusion, although adult punishment may seem appropriate for extremely serious crimes, it should not be applied blindly to all teenage offenders. A nuanced system that evaluates the severity of the crime alongside the mental and emotional development of the youth is essential for justice and long-term social benefit.",
+        "analysis": "The essay presents a well-developed and balanced discussion of a sensitive issue. Both sides are evaluated with strong arguments and relevant examples. The vocabulary is varied and precise, and the structure follows a logical progression. This essay meets Band 9 criteria for Task Response, Coherence and Cohesion, Lexical Resource, and Grammatical Range and Accuracy.",
+        "highlights": [
+            {
+                "text": "sparked debate about how young offenders should be punished",
+                "type": "phrase",
+                "explanation": "Natural and academic phrasing to introduce a controversial issue.",
+                "example": "The introduction of AI into education has sparked debate among educators."
+            },
+            {
+                "text": "the nature of the crime should outweigh the age of the criminal",
+                "type": "structure",
+                "explanation": "Sophisticated conditional reasoning showing one side of the argument.",
+                "example": "In high-risk scenarios, the outcome should outweigh the cost of intervention."
+            },
+            {
+                "text": "psychological and developmental differences between the two groups",
+                "type": "vocabulary",
+                "explanation": "Precise academic vocabulary related to psychology and human development.",
+                "example": "Developmental delays can lead to long-term learning challenges."
+            },
+            {
+                "text": "balances accountability with rehabilitation",
+                "type": "vocabulary",
+                "explanation": "Advanced phrasing showing a fair and thoughtful solution.",
+                "example": "An effective education policy balances equity with academic excellence."
+            },
+            {
+                "text": "a nuanced system that evaluates the severity of the crime",
+                "type": "phrase",
+                "explanation": "High-level phrase indicating a balanced and fair approach.",
+                "example": "Climate policy must be a nuanced system based on both science and equity."
+            }
+        ]
+    },
+    {
+        "id": "task2-police-crime-control",
+        "taskType": "task2",
+        "question": "Some countries are struggling with an increase in the rate of crime. Many people think that having more police on the streets is the only way to reduce crime. To what extent do you agree?",
+        "answer": "Rising crime rates have become a pressing concern in many countries, prompting debates about effective strategies for crime reduction. While some believe that deploying more police officers on the streets is the sole solution, I contend that while a visible police presence can deter crime, addressing the root causes through education, social support, and economic opportunity is equally, if not more, effective.\n\nIncreasing police presence in public areas can serve as a strong deterrent to criminal activity. When individuals know they are under surveillance or at risk of immediate arrest, they are less likely to engage in unlawful behavior. For instance, in several urban neighborhoods, a rise in patrolling officers has coincided with a drop in petty crimes like theft and vandalism. Furthermore, increased visibility can enhance public confidence and encourage community cooperation with law enforcement.\n\nHowever, relying solely on policing overlooks the deeper, systemic causes of crime such as poverty, lack of education, unemployment, and social inequality. Crime often emerges from desperation or lack of opportunity, and without addressing these issues, enforcement alone may merely suppress, rather than solve, the problem. For example, nations that have invested in youth education, job training, and mental health services have seen sustained declines in crime rates, even with modest police presence.\n\nIn conclusion, while placing more police on the streets can contribute to crime reduction by increasing deterrence and safety, it is not a comprehensive solution. True and lasting change requires tackling the underlying causes of crime through inclusive social and economic policies. A balanced approach that includes both enforcement and prevention is essential for long-term public security.",
+        "analysis": "This essay presents a well-structured and nuanced discussion of the issue, acknowledging the potential benefits of policing while offering broader insights into crime prevention. It demonstrates excellent lexical control, logical flow, and a mature understanding of complex social issues. All Band 9 criteria are met, including Task Response, Coherence and Cohesion, Lexical Resource, and Grammatical Range and Accuracy.",
+        "highlights": [
+            {
+                "text": "prompting debates about effective strategies for crime reduction",
+                "type": "phrase",
+                "explanation": "Academic phrase introducing the topic and signaling complexity.",
+                "example": "The rise of AI has prompted debates about its ethical implications."
+            },
+            {
+                "text": "serve as a strong deterrent to criminal activity",
+                "type": "vocabulary",
+                "explanation": "Precise language describing the preventive effect of policing.",
+                "example": "Higher fines can serve as a strong deterrent to traffic violations."
+            },
+            {
+                "text": "enhance public confidence and encourage community cooperation",
+                "type": "structure",
+                "explanation": "Well-developed compound effect with sophisticated coordination.",
+                "example": "Transparent governance enhances public confidence and encourages civic engagement."
+            },
+            {
+                "text": "systemic causes of crime such as poverty, lack of education, unemployment",
+                "type": "vocabulary",
+                "explanation": "Advanced use of collocations and listing to show depth of understanding.",
+                "example": "Systemic causes of disease include malnutrition, pollution, and inadequate healthcare."
+            },
+            {
+                "text": "A balanced approach that includes both enforcement and prevention",
+                "type": "structure",
+                "explanation": "Summative and nuanced position in the conclusion.",
+                "example": "A balanced approach involving both regulation and innovation is essential for sustainability."
+            }
+        ]
     }
-  ]
-    },
-    {
-  "id": "task2-2",
-  "taskType": "task2",
-  "question": "Many people think that museums and galleries should only show work from local artists rather than work from other countries. Do you agree?",
-  "answer": "Museums and galleries play a crucial role in preserving and showcasing human creativity and history. While some believe that these institutions should exclusively exhibit artwork from local artists, others argue for a more global representation. I firmly believe that museums and galleries should feature both local and international works, as this not only enriches cultural understanding but also inspires artistic growth.\n\nExhibiting international artwork fosters cross-cultural awareness and global appreciation. When visitors are exposed to creative works from different countries, they gain insight into foreign cultures, histories, and values. For instance, an exhibit of Japanese ukiyo-e prints or African tribal masks in a European museum offers viewers a chance to connect with traditions they may never otherwise encounter. Such exposure helps dismantle stereotypes and promotes a more tolerant and informed society.\n\nFurthermore, showcasing international works alongside local art encourages innovation and inspiration among native artists. Local creators can draw influence from various styles, techniques, and philosophies, leading to fresh interpretations and hybrid forms of expression. For example, the works of Indian modernists like M.F. Husain were deeply enriched by their exposure to Western art movements such as Cubism and Expressionism. This exchange of ideas fuels creative diversity and ensures that the artistic community continues to evolve.\n\nIn conclusion, while celebrating local talent is undeniably important, restricting museums and galleries to domestic art alone limits cultural exchange and artistic progress. Governments and curators should strive to maintain a balanced representation, allowing people to appreciate both their roots and the broader spectrum of global creativity. In an increasingly interconnected world, embracing international art is not only relevant but essential.",
-  "analysis": "This essay demonstrates an excellent response to the question with a clear and nuanced position. Ideas are well developed, supported with specific examples, and logically sequenced. The vocabulary is rich and precise, the grammar is controlled and varied, and cohesive devices are used effortlessly. The conclusion offers a powerful call to action, completing a well-balanced argument.",
-  "highlights": [
-    {
-      "text": "play a crucial role in preserving and showcasing",
-      "type": "phrase",
-      "explanation": "An effective formal phrase to describe important institutional functions.",
-      "example": "Schools play a crucial role in preserving ethical values and showcasing academic growth."
-    },
-    {
-      "text": "exclusively exhibit artwork",
-      "type": "vocabulary",
-      "explanation": "Advanced collocation for restricting display to a certain group.",
-      "example": "The gallery plans to exclusively exhibit female photographers this year."
-    },
-    {
-      "text": "enriches cultural understanding",
-      "type": "vocabulary",
-      "explanation": "Strong verb-noun collocation to describe intellectual benefit.",
-      "example": "Traveling abroad enriches cultural understanding and empathy."
-    },
-    {
-      "text": "fosters cross-cultural awareness",
-      "type": "vocabulary",
-      "explanation": "A precise phrase to explain global exposure and understanding.",
-      "example": "Studying international literature fosters cross-cultural awareness among students."
-    },
-    {
-      "text": "gain insight into foreign cultures",
-      "type": "phrase",
-      "explanation": "Useful expression to talk about deeper learning and appreciation.",
-      "example": "Volunteering abroad helps one gain insight into foreign cultures."
-    },
-    {
-      "text": "connect with traditions they may never otherwise encounter",
-      "type": "structure",
-      "explanation": "A conditional clause that introduces rare exposure through an opportunity.",
-      "example": "Online platforms allow rural students to connect with ideas they may never otherwise encounter."
-    },
-    {
-      "text": "helps dismantle stereotypes",
-      "type": "vocabulary",
-      "explanation": "Powerful verb-noun combination to indicate breaking down bias.",
-      "example": "Cross-cultural friendships help dismantle harmful stereotypes."
-    },
-    {
-      "text": "showcasing international works alongside local art",
-      "type": "structure",
-      "explanation": "Balanced structure emphasizing inclusion of both groups.",
-      "example": "Showcasing traditional techniques alongside digital methods creates a comprehensive exhibit."
-    },
-    {
-      "text": "draw influence from various styles",
-      "type": "phrase",
-      "explanation": "Describes artistic or intellectual inspiration with flexibility.",
-      "example": "Modern chefs draw influence from both classical and fusion cuisines."
-    },
-    {
-      "text": "leading to fresh interpretations and hybrid forms of expression",
-      "type": "structure",
-      "explanation": "Progressive structure showing outcomes of mixing ideas.",
-      "example": "The blending of genres leads to fresh interpretations and hybrid storytelling techniques."
-    },
-    {
-      "text": "deeply enriched by their exposure to",
-      "type": "vocabulary",
-      "explanation": "Useful phrase to describe transformative learning or influence.",
-      "example": "Her music was deeply enriched by her exposure to folk traditions."
-    },
-    {
-      "text": "exchange of ideas fuels creative diversity",
-      "type": "phrase",
-      "explanation": "Metaphorical phrase showing cause and effect in innovation.",
-      "example": "Global conferences ensure that the exchange of ideas fuels creative diversity."
-    },
-    {
-      "text": "while celebrating local talent is undeniably important",
-      "type": "grammar",
-      "explanation": "Complex sentence opening with concessive clause.",
-      "example": "While online education is undeniably important, classroom interaction remains crucial."
-    },
-    {
-      "text": "limits cultural exchange and artistic progress",
-      "type": "phrase",
-      "explanation": "Concise phrasing showing negative outcomes of exclusivity.",
-      "example": "Strict censorship limits cultural exchange and artistic innovation."
-    },
-    {
-      "text": "appreciate both their roots and the broader spectrum of global creativity",
-      "type": "structure",
-      "explanation": "Balanced parallel structure expressing dual appreciation.",
-      "example": "Students should learn to appreciate both traditional values and modern perspectives."
-    },
-    {
-      "text": "embracing international art is not only relevant but essential",
-      "type": "grammar",
-      "explanation": "Strong conclusion using correlative conjunction 'not only... but also'.",
-      "example": "Learning a second language is not only useful but essential in today’s global world."
-    }
-  ]
-},
-    {
-  "id": "task2-3",
-  "taskType": "task2",
-  "question": "Art is considered an essential part of all cultures throughout the world. However, these days fewer and fewer people appreciate art and turn their focus to science, technology and business.",
-  "answer": "Art has long been regarded as a vital expression of culture, identity, and emotion across civilizations. However, in today’s fast-paced, result-driven world, an increasing number of people are shifting their attention away from artistic pursuits in favour of science, technology, and business. While this trend is understandable given the demands of modern economies, I believe the diminishing appreciation of art is a cultural loss that must be addressed.\n\nThe growing focus on science and technology is largely driven by economic and societal pressures. Modern education systems and job markets reward technical skills that lead to tangible outcomes such as innovation, productivity, and profit. For instance, students are often encouraged to pursue careers in software engineering, data science, or entrepreneurship because they offer better financial security than artistic fields. As a result, art is frequently perceived as a hobby rather than a viable career, leading to its marginalization in schools and public funding.\n\nNevertheless, the importance of art in maintaining cultural richness and emotional well-being cannot be overstated. Art connects people to their heritage, challenges perspectives, and fosters empathy—qualities that are essential for a healthy, balanced society. For example, street murals in Brazil or traditional music in West Africa continue to inspire community cohesion and identity. By neglecting art, societies risk losing not just beauty, but the human values and historical continuity that it embodies.\n\nIn conclusion, while the rise of science, technology, and business reflects modern priorities, the declining appreciation for art poses a significant cultural and emotional cost. Governments, educators, and communities must actively preserve and promote the arts to ensure that progress does not come at the expense of cultural identity and human connection. Art may not build bridges or write code, but it builds meaning—and that is equally vital.",
-  "analysis": "This essay thoroughly addresses the topic with a clear, well-argued thesis. It balances both sides of the issue, using specific examples and high-level vocabulary. Cohesion is smooth, with natural transitions and sentence variation. The conclusion delivers a strong emotional appeal and call to action, rounding off a highly effective response.",
-  "highlights": [
-    {
-      "text": "vital expression of culture, identity, and emotion",
-      "type": "phrase",
-      "explanation": "A rich phrase showing art's multi-dimensional importance.",
-      "example": "Language is a vital expression of culture and thought."
-    },
-    {
-      "text": "fast-paced, result-driven world",
-      "type": "vocabulary",
-      "explanation": "Descriptive compound adjectives giving tone and context.",
-      "example": "In today’s fast-paced, tech-centric economy, adaptation is key."
-    },
-    {
-      "text": "shifting their attention away from artistic pursuits",
-      "type": "structure",
-      "explanation": "Present participle phrase used to describe societal trends.",
-      "example": "Many people are shifting their attention away from reading books."
-    },
-    {
-      "text": "diminishing appreciation of art",
-      "type": "vocabulary",
-      "explanation": "Collocation used to capture a cultural decline.",
-      "example": "There is a diminishing appreciation of handwritten letters."
-    },
-    {
-      "text": "economic and societal pressures",
-      "type": "phrase",
-      "explanation": "Formal phrase grouping two major influencing factors.",
-      "example": "Economic and societal pressures have reshaped education priorities."
-    },
-    {
-      "text": "reward technical skills that lead to tangible outcomes",
-      "type": "structure",
-      "explanation": "Cause-effect construction with strong verbs and academic tone.",
-      "example": "Modern companies reward innovation that leads to tangible outcomes."
-    },
-    {
-      "text": "art is frequently perceived as a hobby",
-      "type": "grammar",
-      "explanation": "Passive construction to express public perception.",
-      "example": "Philosophy is often perceived as abstract and impractical."
-    },
-    {
-      "text": "marginalization in schools and public funding",
-      "type": "vocabulary",
-      "explanation": "High-level noun to describe exclusion or reduction.",
-      "example": "Marginalization of the humanities is a growing concern."
-    },
-    {
-      "text": "cannot be overstated",
-      "type": "phrase",
-      "explanation": "An emphatic expression to reinforce significance.",
-      "example": "The impact of early childhood education cannot be overstated."
-    },
-    {
-      "text": "challenges perspectives and fosters empathy",
-      "type": "vocabulary",
-      "explanation": "Strong verbs to convey emotional and intellectual benefits.",
-      "example": "Literature challenges perspectives and fosters emotional intelligence."
-    },
-    {
-      "text": "inspire community cohesion and identity",
-      "type": "vocabulary",
-      "explanation": "Formal phrase linking art to social bonding.",
-      "example": "Cultural festivals inspire community cohesion and pride."
-    },
-    {
-      "text": "risk losing not just beauty, but the human values",
-      "type": "structure",
-      "explanation": "Balanced structure used to contrast visible and abstract elements.",
-      "example": "By automating everything, we risk losing not just jobs, but human connection."
-    },
-    {
-      "text": "poses a significant cultural and emotional cost",
-      "type": "vocabulary",
-      "explanation": "Noun phrase emphasizing negative consequences.",
-      "example": "Climate change poses a significant environmental and social cost."
-    },
-    {
-      "text": "progress does not come at the expense of",
-      "type": "phrase",
-      "explanation": "Formal phrase to warn against harmful trade-offs.",
-      "example": "Economic growth should not come at the expense of environmental degradation."
-    },
-    {
-      "text": "builds meaning—and that is equally vital",
-      "type": "grammar",
-      "explanation": "Compound sentence ending with emphasis using em dash.",
-      "example": "Science saves lives—but compassion builds meaning."
-    }
-  ]
-},
-    {
-  "id": "task2-f7a15dee",
-  "taskType": "task2",
-  "question": "Some people think that art is an essential subject for children at school while others think it is a waste of time. Discuss both sides and give your opinion.",
-  "answer": "The inclusion of art in school curricula has long been a subject of debate. While some argue that it fosters creativity and emotional intelligence in children, others claim that it detracts from core academic subjects such as math and science. This essay will discuss both perspectives before concluding that art is a crucial element of a balanced education.\n\nSupporters of art education emphasize its role in nurturing creativity and emotional development. Art enables children to express themselves in non-verbal ways, boosting their self-esteem and imagination. For example, drawing or painting can help introverted students communicate emotions that they may struggle to verbalize. Additionally, exposure to art has been linked to improvements in problem-solving skills and lateral thinking, both of which are valuable in any discipline.\n\nOn the other hand, critics argue that school time is better spent on practical and measurable subjects. In a competitive world increasingly dominated by science and technology, skills in coding, mathematics, and literacy are often prioritized. They contend that artistic ability may not translate into viable career opportunities, and thus, investing heavily in art education may not be cost-effective for schools with limited resources.\n\nIn conclusion, while practical subjects are undeniably important, dismissing art as a waste of time undermines its substantial benefits in fostering emotional and cognitive development. Schools should aim for a well-rounded curriculum that values creativity alongside academic rigor, ensuring students grow into both capable and expressive individuals.",
-  "analysis": "This essay provides a balanced discussion with clear arguments on both sides and a strong personal opinion. The examples are relevant, the vocabulary is sophisticated, and the grammar structures are varied and accurate.",
-  "highlights": [
-    {
-      "text": "fosters creativity and emotional intelligence",
-      "type": "vocabulary",
-      "explanation": "Strong verb-noun collocations capturing personal development benefits.",
-      "example": "Group work fosters collaboration and empathy."
-    },
-    {
-      "text": "exposure to art has been linked to",
-      "type": "structure",
-      "explanation": "Passive structure introducing research-based support.",
-      "example": "Exposure to second languages has been linked to improved memory."
-    },
-    {
-      "text": "competitive world increasingly dominated by",
-      "type": "phrase",
-      "explanation": "Contextual phrase highlighting modern economic or career priorities.",
-      "example": "In a world increasingly dominated by automation, soft skills are gaining importance."
-    },
-    {
-      "text": "cost-effective for schools with limited resources",
-      "type": "phrase",
-      "explanation": "Common phrase discussing education budgeting concerns.",
-      "example": "E-learning platforms are often more cost-effective for schools with limited budgets."
-    },
-    {
-      "text": "well-rounded curriculum",
-      "type": "vocabulary",
-      "explanation": "Describes a balanced educational structure.",
-      "example": "A well-rounded curriculum should include science, arts, and ethics."
-    }
-  ]
-},
-    {
-  "id": "task2-f893b66e",
-  "taskType": "task2",
-  "question": "Artists need a certain amount of freedom to develop their creativity. Some people think that artists should have total freedom to express any thoughts and ideas. To what extent do you agree or disagree?",
-  "answer": "Freedom of expression is fundamental to the creative process. While some argue that artists should be granted total freedom to express any idea, others believe that there should be limits, especially when art intersects with politics, religion, or public morality. I partially agree with the idea of artistic freedom, but I also believe that it must be exercised with social responsibility.\n\nUnlimited freedom allows artists to challenge conventions and stimulate societal progress. History shows that groundbreaking movements—such as Dadaism or Surrealism—were born from unrestrained artistic expression. These forms of art questioned authority and reshaped perspectives, paving the way for cultural revolutions. Moreover, total freedom enables artists to reflect raw human emotions, which often resonate deeply with audiences.\n\nHowever, complete artistic freedom can also result in content that offends or polarizes society. Art that glorifies violence, promotes hate, or disrespects sacred beliefs can create unrest and division. For instance, controversial exhibits have sparked public outrage in various countries, prompting debates on the boundary between freedom and responsibility. Therefore, while censorship should be minimal, some ethical framework is necessary to ensure art remains constructive rather than disruptive.\n\nIn conclusion, although unrestricted artistic expression can fuel innovation and emotional depth, it must be tempered with a sense of accountability. A society that encourages creativity must also ensure that it does not come at the cost of public harmony. Artists should be free—but not at the expense of social unity.",
-  "analysis": "This essay presents a nuanced view with well-structured arguments supporting both artistic freedom and societal responsibility. It uses sophisticated vocabulary, smooth transitions, and rich examples to justify its stance. Sentence structures are varied and grammar is well controlled.",
-  "highlights": [
-    {
-      "text": "Freedom of expression is fundamental to the creative process",
-      "type": "phrase",
-      "explanation": "A high-level introductory phrase setting up the discussion clearly.",
-      "example": "Freedom of expression is fundamental to a functioning democracy."
-    },
-    {
-      "text": "stimulate societal progress",
-      "type": "vocabulary",
-      "explanation": "Describes art’s ability to positively influence culture and society.",
-      "example": "Education reform can stimulate societal progress."
-    },
-    {
-      "text": "questioned authority and reshaped perspectives",
-      "type": "phrase",
-      "explanation": "Powerful phrase showing art's role in challenging the status quo.",
-      "example": "The feminist movement questioned authority and reshaped societal norms."
-    },
-    {
-      "text": "resonate deeply with audiences",
-      "type": "vocabulary",
-      "explanation": "Common expression describing emotional impact.",
-      "example": "Honest storytelling tends to resonate deeply with audiences."
-    },
-    {
-      "text": "offends or polarizes society",
-      "type": "vocabulary",
-      "explanation": "Describes negative effects of unrestrained expression.",
-      "example": "Misinformation often offends or polarizes society."
-    },
-    {
-      "text": "censorship should be minimal",
-      "type": "phrase",
-      "explanation": "Conveys a balanced perspective without advocating total control.",
-      "example": "In a democratic society, censorship should be minimal but fair."
-    },
-    {
-      "text": "tempered with a sense of accountability",
-      "type": "structure",
-      "explanation": "Metaphoric expression showing balance between freedom and responsibility.",
-      "example": "Free speech must be tempered with a sense of accountability."
-    }
-  ]
-},
-{
-  "id": "task2-15b5c3c3",
-  "taskType": "task2",
-  "question": "Most artists earn low salaries and should therefore receive funding from the government in order for them to continue with their work. To what extent do you agree?",
-  "answer": "Artists play an essential role in enriching society, yet many struggle financially due to the unpredictable nature of their careers. Some argue that governments should provide funding to support these individuals. I strongly agree with this view, as government assistance can preserve cultural diversity and promote public engagement with the arts.\n\nOne major reason to support government funding for artists is the preservation of cultural heritage. Traditional forms of music, painting, and storytelling often survive only through the efforts of dedicated artists. Without financial support, many of these art forms risk extinction, especially in underfunded or rural communities. Public funding ensures that future generations have access to their cultural history and identity.\n\nMoreover, financial aid allows artists to focus on creativity rather than commercial viability. In the absence of funding, many artists are forced to abandon passion projects in favor of more marketable work. For example, experimental theater or independent cinema often struggles to attract private investment but thrives with state support. Government funding thus nurtures artistic innovation and contributes to a richer public cultural life.\n\nIn conclusion, supporting artists through government funding is not just an economic gesture—it is an investment in cultural continuity and innovation. By alleviating financial pressure, societies can empower artists to create freely and contribute meaningfully to collective identity and national pride.",
-  "analysis": "This response presents a clear argument in favor of public support for artists, supported by specific and persuasive examples. The language is formal, precise, and varied, and the structure follows a coherent and logical progression. A strong conclusion reinforces the main points with impact.",
-  "highlights": [
-    {
-      "text": "enriching society",
-      "type": "vocabulary",
-      "explanation": "Concise and powerful way to describe cultural contribution.",
-      "example": "Volunteers play a vital role in enriching society."
-    },
-    {
-      "text": "unpredictable nature of their careers",
-      "type": "phrase",
-      "explanation": "Describes job instability in a formal tone.",
-      "example": "Freelancers often struggle due to the unpredictable nature of their careers."
-    },
-    {
-      "text": "preservation of cultural heritage",
-      "type": "vocabulary",
-      "explanation": "Commonly used phrase in topics about tradition and history.",
-      "example": "Language is essential for the preservation of cultural heritage."
-    },
-    {
-      "text": "risk extinction",
-      "type": "phrase",
-      "explanation": "Describes the potential disappearance of art forms or traditions.",
-      "example": "Many minority languages risk extinction without intervention."
-    },
-    {
-      "text": "focus on creativity rather than commercial viability",
-      "type": "structure",
-      "explanation": "Balanced comparison highlighting core idea.",
-      "example": "Public broadcasting should focus on education rather than commercial viability."
-    },
-    {
-      "text": "contributes to a richer public cultural life",
-      "type": "phrase",
-      "explanation": "Formal phrase summarizing the benefit of funding art.",
-      "example": "Public parks contribute to a richer urban cultural life."
-    },
-    {
-      "text": "investment in cultural continuity and innovation",
-      "type": "vocabulary",
-      "explanation": "High-level phrase capturing both preservation and future value.",
-      "example": "Funding science is an investment in national progress and innovation."
-    }
-  ]
-},
-    {
-  "id": "task2-45ca51e3",
-  "taskType": "task2",
-  "question": "In some countries, a few people earn extremely high salaries. Some people think that this is good for a country, while others believe that the government should control salaries and limit the amount people can earn. Discuss both views and give your opinion.",
-  "answer": "Income disparity is a topic of frequent debate across nations. Some argue that allowing individuals to earn exceptionally high salaries benefits national growth by incentivizing talent and hard work. Others believe such disparities can harm social cohesion and advocate for salary caps imposed by governments. This essay will examine both perspectives before concluding that while high incomes can be beneficial, some regulation is necessary to maintain societal balance.\n\nSupporters of high salaries assert that they reward excellence and drive economic development. High earners often include entrepreneurs, innovators, and skilled professionals whose contributions generate jobs and tax revenue. For example, tech leaders like those in Silicon Valley have built global companies that not only create employment but also push forward technological advancements. Moreover, the potential to earn large sums of money can motivate individuals to invest in education and innovation.\n\nOn the other hand, critics argue that extreme income inequality undermines social equity. When a small fraction of the population holds a disproportionate amount of wealth, it can breed resentment, reduce social mobility, and strain public services. Countries with large income gaps often experience higher crime rates, poorer public health, and weaker community bonds. Limiting salaries, they argue, could reduce this divide and promote a fairer distribution of resources.\n\nIn conclusion, while high salaries can indeed spur innovation and reward achievement, unchecked income disparities may damage societal fabric. Governments should strike a balance—encouraging individual success while implementing fair tax systems and social policies to ensure inclusivity and equality. A prosperous nation is one where success uplifts not just a few, but the many.",
-  "analysis": "This essay clearly addresses both sides of the argument and articulates a balanced personal opinion. Examples are relevant and well explained. The vocabulary is academic, grammar is accurate, and cohesion is smooth throughout.",
-  "highlights": [
-    {
-      "text": "Income disparity is a topic of frequent debate",
-      "type": "phrase",
-      "explanation": "Useful expression to introduce a controversial issue.",
-      "example": "Climate change policy is a topic of frequent debate in politics."
-    },
-    {
-      "text": "reward excellence and drive economic development",
-      "type": "vocabulary",
-      "explanation": "High-level phrase connecting personal success with national benefit.",
-      "example": "Merit-based scholarships reward excellence and drive academic ambition."
-    },
-    {
-      "text": "generate jobs and tax revenue",
-      "type": "phrase",
-      "explanation": "Formal phrase used in economic discussions.",
-      "example": "Infrastructure projects generate jobs and tax revenue."
-    },
-    {
-      "text": "push forward technological advancements",
-      "type": "vocabulary",
-      "explanation": "Describes how innovation leads to progress.",
-      "example": "Investment in research pushes forward technological advancements."
-    },
-    {
-      "text": "breed resentment, reduce social mobility",
-      "type": "structure",
-      "explanation": "Parallel structure showing negative effects.",
-      "example": "Unfair systems breed resentment and reduce trust."
-    },
-    {
-      "text": "weaker community bonds",
-      "type": "vocabulary",
-      "explanation": "Describes erosion of social cohesion.",
-      "example": "Rapid urbanization may lead to weaker community bonds."
-    },
-    {
-      "text": "strike a balance",
-      "type": "phrase",
-      "explanation": "Common idiom used to suggest compromise.",
-      "example": "Parents should strike a balance between discipline and freedom."
-    },
-    {
-      "text": "success uplifts not just a few, but the many",
-      "type": "structure",
-      "explanation": "Emphatic structure to end the essay powerfully.",
-      "example": "Education reform must benefit not just the elite, but the many."
-    }
-  ]
-},
-    {
-  "id": "task2-0f9abcc7",
-  "taskType": "task2",
-  "question": "More and more business meetings are taking place online. What are the advantages and disadvantages of this trend?",
-  "answer": "With the advancement of digital communication tools, an increasing number of business meetings are now held online rather than in physical offices. While this trend offers significant benefits in terms of convenience and cost savings, it also presents certain drawbacks related to engagement and interpersonal connection. This essay explores both the advantages and disadvantages of virtual business meetings.\n\nOne of the most prominent advantages of online meetings is enhanced accessibility and efficiency. Companies can save on travel expenses, accommodation, and venue rentals by switching to digital platforms like Zoom or Microsoft Teams. For example, multinational corporations can coordinate across continents in real time without logistical hurdles. Moreover, online meetings allow employees to balance their work schedules more flexibly, increasing overall productivity.\n\nHowever, virtual meetings can also lead to reduced human interaction and potential miscommunication. Non-verbal cues such as body language, tone, and facial expressions are harder to interpret over a screen, which may hinder understanding and rapport. Additionally, technical glitches and unstable internet connections can disrupt discussions, leading to inefficiencies. There is also a risk of participants becoming distracted or disengaged, especially when meetings are long or repetitive.\n\nIn conclusion, while online business meetings offer undeniable advantages in cost reduction and operational flexibility, they also compromise certain aspects of human communication. To maximize benefits, companies should adopt a hybrid approach—leveraging digital platforms for routine interactions while preserving face-to-face engagement for strategic or high-stakes discussions.",
-  "analysis": "This essay presents a balanced analysis of both the positive and negative sides of online business meetings. It includes specific examples, uses a wide range of vocabulary and grammar, and maintains cohesion throughout the response. The recommendation in the conclusion provides a practical and insightful solution.",
-  "highlights": [
-    {
-      "text": "advancement of digital communication tools",
-      "type": "vocabulary",
-      "explanation": "Describes technological progress in a formal and accurate manner.",
-      "example": "The advancement of digital communication tools has transformed education."
-    },
-    {
-      "text": "enhanced accessibility and efficiency",
-      "type": "phrase",
-      "explanation": "Common collocation in business writing to describe improved operations.",
-      "example": "Cloud computing has led to enhanced accessibility and efficiency."
-    },
-    {
-      "text": "without logistical hurdles",
-      "type": "phrase",
-      "explanation": "Describes ease of coordination without planning or transport issues.",
-      "example": "E-tickets allow travelers to book trips without logistical hurdles."
-    },
-    {
-      "text": "reduced human interaction and potential miscommunication",
-      "type": "vocabulary",
-      "explanation": "Describes a key disadvantage using formal and precise terms.",
-      "example": "Remote learning may result in reduced human interaction and potential miscommunication."
-    },
-    {
-      "text": "non-verbal cues such as body language, tone, and facial expressions",
-      "type": "structure",
-      "explanation": "Well-developed example list to explain abstract concepts.",
-      "example": "Effective communication often relies on non-verbal cues such as eye contact and posture."
-    },
-    {
-      "text": "disrupt discussions, leading to inefficiencies",
-      "type": "structure",
-      "explanation": "Shows cause-effect relationship using clear and formal language.",
-      "example": "Technical errors can delay deliveries, leading to customer dissatisfaction."
-    },
-    {
-      "text": "hybrid approach—leveraging digital platforms",
-      "type": "vocabulary",
-      "explanation": "Professional and solution-oriented phrase commonly used in business contexts.",
-      "example": "Many firms are adopting a hybrid approach to remote work."
-    }
-  ]
-},
-    {
-  "id": "task2-4d1e89d7",
-  "taskType": "task2",
-  "question": "Due to the development and rapid expansion of supermarkets in some countries, many small, local business are unable to compete. Some people think that the closure of local business will bring about the death of local communities. To what extent do you agree or disagree?",
-  "answer": "The rise of large supermarket chains has significantly reshaped consumer habits and local economies. While some argue that the decline of small, local businesses is a natural outcome of progress, others contend that it poses a serious threat to the survival of local communities. I strongly agree with the latter view, as the disappearance of small enterprises can erode community identity and weaken local social bonds.\n\nOne major consequence of supermarket expansion is the displacement of small, family-run businesses that form the backbone of local economies. These businesses often serve as gathering places, where residents not only shop but also interact, fostering a sense of belonging. For instance, a local bakery or bookstore typically knows its regular customers by name, offering personalized service and fostering familiarity. When such establishments shut down, the communal fabric begins to unravel, reducing both social cohesion and neighborhood vibrancy.\n\nMoreover, the dominance of large retail chains can homogenize consumer choices and funnel wealth out of local areas. Supermarkets often import standardized goods in bulk, pushing out unique, locally produced items that reflect regional culture and craftsmanship. As profits from these chains are typically returned to corporate headquarters rather than reinvested locally, communities suffer long-term economic decline. This not only limits local entrepreneurship but also diminishes the cultural diversity that small businesses help sustain.\n\nIn conclusion, the closure of small, local businesses due to supermarket expansion can indeed spell the gradual decline of local communities. Protecting these enterprises is not merely about economics, but about preserving the identity, culture, and social vitality of a community. Governments and citizens alike must prioritize policies and practices that support local businesses and ensure their continued relevance in an increasingly globalized marketplace.",
-  "analysis": "The essay presents a clear and strongly argued position throughout, directly addressing the task. It maintains logical flow, uses a wide range of vocabulary and sentence structures with precision, and is well-supported with relevant examples and explanations. Paragraphing and cohesion are managed skillfully.",
-  "highlights": [
-    {
-      "text": "reshaped consumer habits and local economies",
-      "type": "phrase",
-      "explanation": "Effectively summarizes the broader impact of supermarkets",
-      "example": "Digital platforms have reshaped consumer habits and business models."
-    },
-    {
-      "text": "poses a serious threat to the survival of local communities",
-      "type": "phrase",
-      "explanation": "Strong language to emphasize consequence",
-      "example": "Climate change poses a serious threat to global ecosystems."
-    },
-    {
-      "text": "I strongly agree with the latter view",
-      "type": "structure",
-      "explanation": "Clear and formal way to state your opinion in an agree/disagree essay",
-      "example": "I strongly agree with the notion that public transport should be free."
-    },
-    {
-      "text": "serve as gathering places",
-      "type": "vocabulary",
-      "explanation": "Descriptive phrase that implies social importance of businesses",
-      "example": "Libraries serve as gathering places for local communities."
-    },
-    {
-      "text": "fostering a sense of belonging",
-      "type": "vocabulary",
-      "explanation": "Good collocation and academic phrase",
-      "example": "Cultural events play a role in fostering a sense of belonging."
-    },
-    {
-      "text": "the communal fabric begins to unravel",
-      "type": "phrase",
-      "explanation": "Metaphor showing community breakdown",
-      "example": "When trust in institutions fades, the communal fabric begins to unravel."
-    },
-    {
-      "text": "homogenize consumer choices",
-      "type": "vocabulary",
-      "explanation": "Strong verb to describe loss of variety",
-      "example": "Global brands tend to homogenize consumer choices."
-    },
-    {
-      "text": "profits from these chains are typically returned to corporate headquarters",
-      "type": "grammar",
-      "explanation": "Complex passive construction showing clarity and precision",
-      "example": "Taxes collected are typically returned to state budgets."
-    },
-    {
-      "text": "not merely about economics, but about preserving the identity",
-      "type": "structure",
-      "explanation": "Balanced sentence structure for strong conclusion",
-      "example": "Climate action is not merely about the environment, but about justice."
-    }
-  ]
-},
-    {
-  "id": "task2-59e834c1",
-  "taskType": "task2",
-  "question": "Companies should provide sports and social facilities for local communities. To what extent do you agree?",
-  "answer": "In today's corporate landscape, the role of companies extends beyond profit generation to include social responsibility. One such responsibility is the provision of sports and social facilities for local communities. I completely agree that companies should invest in these initiatives, as they foster goodwill and contribute positively to public health and social cohesion.\n\nProviding sports and social amenities can significantly enhance a company's relationship with the surrounding community. By sponsoring fitness centers, parks, or recreational clubs, businesses demonstrate their commitment to societal well-being, which in turn improves their public image. For instance, multinational firms like Adidas and Tata have launched community sports programs, strengthening their brand reputation while genuinely benefiting the local population. This mutually reinforcing relationship promotes long-term trust and loyalty between businesses and communities.\n\nMoreover, such initiatives have tangible impacts on community health and integration. Access to well-maintained sports facilities encourages physical activity, which reduces public healthcare costs in the long run. Similarly, social venues can bring people from diverse backgrounds together, promoting inclusion and harmony. When companies contribute to these areas, they not only boost community welfare but also indirectly create a healthier and more productive workforce, which ultimately benefits their own operations.\n\nIn conclusion, companies should indeed play an active role in providing sports and social facilities to local communities. These efforts enhance corporate reputation, promote community well-being, and foster social unity. In an era where stakeholder engagement is crucial, investing in such amenities is not just ethical—it’s strategic.",
-  "analysis": "This essay effectively addresses the question with a clear stance and well-developed arguments. It demonstrates a strong command of vocabulary, advanced grammar structures, and excellent cohesion. Examples are relevant and well-integrated, supporting a sophisticated, coherent argument throughout.",
-  "highlights": [
-    {
-      "text": "extends beyond profit generation to include social responsibility",
-      "type": "phrase",
-      "explanation": "Strong introductory phrase showing an evolved corporate role",
-      "example": "Modern education extends beyond exams to include emotional learning."
-    },
-    {
-      "text": "foster goodwill and contribute positively to public health and social cohesion",
-      "type": "vocabulary",
-      "explanation": "Good collocations and formal tone appropriate for Task 2",
-      "example": "Urban greening fosters goodwill and contributes to environmental stability."
-    },
-    {
-      "text": "demonstrate their commitment to societal well-being",
-      "type": "phrase",
-      "explanation": "Strong academic phrase showing action with ethical intent",
-      "example": "Universities must demonstrate their commitment to diversity and inclusion."
-    },
-    {
-      "text": "mutually reinforcing relationship",
-      "type": "vocabulary",
-      "explanation": "Advanced phrase describing positive interdependence",
-      "example": "Education and innovation have a mutually reinforcing relationship."
-    },
-    {
-      "text": "tangible impacts on community health and integration",
-      "type": "vocabulary",
-      "explanation": "Precise language combining measurable and social outcomes",
-      "example": "Access to clean water has tangible impacts on health outcomes."
-    },
-    {
-      "text": "reduce public healthcare costs in the long run",
-      "type": "structure",
-      "explanation": "Cause-effect structure using future implications",
-      "example": "Investing in education reduces unemployment rates in the long run."
-    },
-    {
-      "text": "bring people from diverse backgrounds together",
-      "type": "phrase",
-      "explanation": "Inclusive and relevant in discussions on social unity",
-      "example": "Festivals bring people from diverse backgrounds together in celebration."
-    },
-    {
-      "text": "not just ethical—it’s strategic",
-      "type": "structure",
-      "explanation": "Rhetorical sentence ending with a strong point",
-      "example": "Climate action is not just necessary—it’s inevitable."
-    }
-  ]
-},
-    {
-  "id": "task2-6ac4b2f1",
-  "taskType": "task2",
-  "question": "If the product is good and meets consumer needs then advertising is unnecessary. To what extent do you agree?",
-  "answer": "In the age of digital consumerism, advertising has become a cornerstone of modern business strategies. Some argue that if a product is genuinely good and satisfies customer needs, then advertising is redundant. While the intrinsic value of a quality product is undeniable, I strongly disagree with the notion that advertising is unnecessary, as it plays a vital role in consumer awareness, brand positioning, and market competitiveness.\n\nAdvertising is essential for creating awareness, even for high-quality products. In a competitive marketplace flooded with choices, customers often make purchasing decisions based on familiarity and visibility. A superior product that remains unknown is unlikely to succeed. For example, many innovative startups fail not due to poor product design but because of a lack of effective promotion. Advertising bridges this gap by informing consumers of the product’s existence, features, and benefits.\n\nMoreover, advertising helps companies build brand identity and foster consumer loyalty. Through consistent messaging, companies can create emotional connections and distinguish their product from similar offerings. For instance, Apple’s advertising does not merely describe product specifications—it evokes a lifestyle and ethos, drawing customers into a long-term relationship with the brand. Even when the product quality is already established, strategic advertising reinforces the brand image and sustains its market presence.\n\nIn conclusion, although a good product is the foundation of any successful business, advertising remains a critical tool in communicating its value to the public. It enhances visibility, shapes perception, and ensures sustained engagement in a competitive environment. Therefore, advertising is not only relevant but indispensable, even for products that meet or exceed consumer expectations.",
-  "analysis": "The essay provides a clear, well-structured argument supported by relevant examples. Vocabulary is advanced and appropriate, grammar usage is sophisticated, and the ideas flow logically. The position is clearly stated and reinforced throughout, satisfying all IELTS Band 9 criteria.",
-  "highlights": [
-    {
-      "text": "a cornerstone of modern business strategies",
-      "type": "phrase",
-      "explanation": "Metaphorical phrase to emphasize importance",
-      "example": "Innovation is the cornerstone of modern education systems."
-    },
-    {
-      "text": "intrinsic value of a quality product",
-      "type": "vocabulary",
-      "explanation": "Refined phrase showing abstract understanding of product worth",
-      "example": "The intrinsic value of art is often difficult to quantify."
-    },
-    {
-      "text": "plays a vital role in consumer awareness, brand positioning, and market competitiveness",
-      "type": "structure",
-      "explanation": "Tripartite structure adds rhetorical strength",
-      "example": "Education plays a vital role in personal growth, civic engagement, and national development."
-    },
-    {
-      "text": "flooded with choices",
-      "type": "phrase",
-      "explanation": "Vivid phrase describing market oversaturation",
-      "example": "The app store is flooded with choices, making selection difficult."
-    },
-    {
-      "text": "remains unknown is unlikely to succeed",
-      "type": "grammar",
-      "explanation": "Present simple with passive voice for general truth",
-      "example": "A message that remains unclear is unlikely to persuade."
-    },
-    {
-      "text": "build brand identity and foster consumer loyalty",
-      "type": "vocabulary",
-      "explanation": "Marketing terminology with strong verb collocations",
-      "example": "Consistent communication helps build brand identity."
-    },
-    {
-      "text": "evokes a lifestyle and ethos",
-      "type": "vocabulary",
-      "explanation": "Sophisticated phrase to describe emotional marketing",
-      "example": "The campaign evokes a lifestyle of freedom and simplicity."
-    },
-    {
-      "text": "not only relevant but indispensable",
-      "type": "structure",
-      "explanation": "Parallelism with 'not only...but also' to emphasize necessity",
-      "example": "Education is not only important but indispensable for development."
-    }
-  ]
-},
-    {
-  "id": "task2-ec8034d3",
-  "taskType": "task2",
-  "question": "Large businesses have big budgets for marketing and promotion and as a result, people gravitate towards buying their products. What problems does this cause? What could be done to encourage people to buy local products?",
-  "answer": "In today’s consumer-driven world, large corporations dominate the market through aggressive advertising and promotional strategies. This trend often draws consumers away from local alternatives. This essay will explore the problems created by such market imbalance and suggest practical measures to promote local products.\n\nOne major issue is the decline of small and local businesses that cannot compete with multinational marketing power. As consumers increasingly choose global brands, local enterprises struggle to survive, resulting in reduced economic diversity and loss of community-based employment. For example, the expansion of global coffee chains has led to the closure of many independent cafes.\nFurthermore, consumer choices become homogenized, limiting cultural variety and promoting a one-size-fits-all market dominated by a few powerful players. This erodes regional identity and diminishes the uniqueness of local goods and traditions.\n\nTo address these concerns, governments and communities can implement strategies to support local products. One effective approach is offering subsidies, tax incentives, or grants to local businesses, helping them improve visibility and competitiveness.\nAdditionally, public awareness campaigns highlighting the environmental and economic benefits of buying locally can influence consumer behavior. Farmers’ markets, “Buy Local” campaigns, and eco-labeling have already proven successful in many countries in shifting public preference toward regional products.\n\nIn conclusion, the overwhelming influence of large businesses in marketing creates serious challenges for local economies and cultural diversity. However, with the support of government policies and community-driven initiatives, consumers can be guided toward making more conscious and locally supportive purchasing decisions. Encouraging local consumption is not only economically important but also essential for preserving identity and sustainability.",
-  "analysis": "The essay presents a balanced discussion with clear paragraphing, strong arguments, and well-developed examples. Vocabulary is advanced and varied, grammar is accurate and flexible, and the overall structure aligns with IELTS Band 9 expectations.",
-  "highlights": [
-    {
-      "text": "consumer-driven world",
-      "type": "vocabulary",
-      "explanation": "A descriptive phrase highlighting market dynamics",
-      "example": "In a consumer-driven world, branding plays a major role in purchasing behavior."
-    },
-    {
-      "text": "draws consumers away from local alternatives",
-      "type": "phrase",
-      "explanation": "Effectively illustrates how advertising influences decisions",
-      "example": "Aggressive pricing can draw consumers away from sustainable products."
-    },
-    {
-      "text": "reduced economic diversity and loss of community-based employment",
-      "type": "structure",
-      "explanation": "Complex noun phrase showing multifaceted consequences",
-      "example": "Automation has led to reduced economic diversity in rural areas."
-    },
-    {
-      "text": "consumer choices become homogenized",
-      "type": "vocabulary",
-      "explanation": "Advanced expression showing loss of variety",
-      "example": "When global franchises dominate, consumer choices become homogenized."
-    },
-    {
-      "text": "erodes regional identity",
-      "type": "phrase",
-      "explanation": "Metaphoric phrase indicating cultural decline",
-      "example": "Tourism can sometimes erode regional identity by promoting stereotypes."
-    },
-    {
-      "text": "subsidies, tax incentives, or grants",
-      "type": "structure",
-      "explanation": "List structure demonstrating variety of solutions",
-      "example": "Governments can provide subsidies, training programs, or financial literacy courses."
-    },
-    {
-      "text": "public awareness campaigns",
-      "type": "vocabulary",
-      "explanation": "Government or NGO-led efforts to inform the public",
-      "example": "Public awareness campaigns are key to reducing plastic waste."
-    },
-    {
-      "text": "more conscious and locally supportive purchasing decisions",
-      "type": "grammar",
-      "explanation": "Adjective-noun structure using parallel modifiers",
-      "example": "People are making more conscious and environmentally friendly choices."
-    },
-    {
-      "text": "preserving identity and sustainability",
-      "type": "phrase",
-      "explanation": "Summarizes the broader social goal",
-      "example": "Traditional education helps in preserving identity and sustainability in culture."
-    }
-  ]
-}
-
-
-
 ]
