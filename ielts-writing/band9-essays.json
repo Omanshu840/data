@@ -1426,5 +1426,512 @@
                 "example": "Promoting cooperation between local businesses and schools is essential to prepare students for the workforce."
             }
         ]
+    },
+    {
+        "id": "task2-environmental-impact-animals-plants",
+        "taskType": "task2",
+        "question": "Human activity has had a negative impact on plants and animals around the world. Some people think that this cannot be changed, while others believe actions can be taken to bring about a change. Discuss both and give your opinion.",
+        "answer": "The detrimental effects of human activity on global biodiversity are undeniable, with widespread deforestation, pollution, and climate change threatening countless species. While some argue that the damage is irreversible, others maintain that proactive measures can still mitigate these harms. This essay will examine both perspectives before presenting the view that human intervention can indeed bring about positive environmental change.\n\nSupporters of the idea that environmental damage is beyond repair point to the alarming rate of species extinction and habitat destruction. For instance, once a species has become extinct, it is lost forever, disrupting entire ecosystems. Furthermore, human-driven changes such as rising global temperatures and melting glaciers appear too vast and complex to reverse in the short term. These individuals often argue that current efforts are too little, too late.\n\nOn the other hand, many believe that strategic action and global cooperation can still protect and restore the environment. Conservation initiatives, such as reforestation, wildlife protection laws, and marine preservation zones, have shown measurable success. For example, the reintroduction of wolves into Yellowstone National Park helped rebalance the entire ecosystem. Technological innovation, such as clean energy and carbon capture, also provides hope for reducing the human footprint on nature.\n\nIn conclusion, while the consequences of human activity on plants and animals are indeed serious, I believe it is not too late to reverse some of the damage. Through committed global efforts, scientific innovation, and public awareness, humanity can still play a key role in protecting the natural world for future generations.",
+        "analysis": "The essay effectively discusses both perspectives, presenting clear examples and strong reasoning. It uses precise vocabulary, coherent paragraphing, and a confident, well-structured argument. The writer also presents a clear and well-justified opinion, satisfying all Band 9 criteria: Task Response, Coherence and Cohesion, Lexical Resource, and Grammatical Range and Accuracy.",
+        "highlights": [
+            {
+                "text": "The detrimental effects of human activity on global biodiversity are undeniable",
+                "type": "vocabulary",
+                "explanation": "High-level vocabulary ('detrimental', 'biodiversity') establishes a formal and academic tone.",
+                "example": "The detrimental effects of plastic pollution on marine biodiversity are increasingly evident."
+            },
+            {
+                "text": "once a species has become extinct, it is lost forever",
+                "type": "phrase",
+                "explanation": "Simple yet powerful phrasing to emphasize irreversibility.",
+                "example": "Once historical records are lost, they are gone forever."
+            },
+            {
+                "text": "strategic action and global cooperation",
+                "type": "vocabulary",
+                "explanation": "Collocation demonstrating an understanding of policy-level solutions.",
+                "example": "Climate change requires strategic action and global cooperation."
+            },
+            {
+                "text": "Technological innovation, such as clean energy and carbon capture",
+                "type": "structure",
+                "explanation": "Specific and relevant example illustrating future potential.",
+                "example": "Technological innovation in agriculture has reduced food insecurity."
+            },
+            {
+                "text": "humanity can still play a key role in protecting the natural world",
+                "type": "grammar",
+                "explanation": "Modal verb with positive tone shows a hopeful conclusion and personal opinion.",
+                "example": "Governments can play a key role in reducing income inequality."
+            }
+        ]
+    },
+    {
+        "id": "task2-wildlife-spending-importance",
+        "taskType": "task2",
+        "question": "It is often said that governments spend too much money on projects to protect wildlife, while there are other problems that are more important. Do you agree or disagree?",
+        "answer": "Governments across the world invest significant resources in wildlife conservation efforts. While some argue that this spending is excessive and should be redirected to address more pressing social issues like poverty, healthcare, or education, I firmly believe that protecting wildlife is not only necessary but also intrinsically linked to the wellbeing of human societies. This essay will explain why such investments are both justified and essential.\n\nFirstly, wildlife plays a crucial role in maintaining ecological balance, which directly supports human life. For example, bees and other pollinators are vital for food production, while predators help regulate animal populations to prevent ecological collapse. Neglecting these species can result in devastating ripple effects across entire ecosystems, ultimately affecting agriculture, water systems, and even public health. Therefore, protecting wildlife is not a luxury but a necessity for long-term sustainability.\n\nMoreover, the idea that funding wildlife projects comes at the expense of solving human problems is misleading. In fact, environmental degradation often exacerbates social issues. For instance, deforestation and habitat loss contribute to climate change, which in turn leads to extreme weather, food shortages, and displacement of communities. By investing in biodiversity, governments are addressing root causes of many modern crises, creating a ripple effect of positive outcomes across sectors.\n\nIn conclusion, while it is important to allocate resources to pressing human concerns, I strongly disagree with the notion that wildlife protection is a secondary issue. In reality, it forms the foundation for many aspects of human welfare and global stability. Sustainable development cannot occur without preserving the ecosystems upon which we all depend.",
+        "analysis": "This essay demonstrates strong argumentation, with a clear stance maintained throughout. The ideas are well-organized and supported by relevant examples and logical reasoning. Vocabulary is sophisticated and appropriate, and the grammar range is wide and accurate. Each paragraph advances the argument, fulfilling all criteria for a Band 9 response.",
+        "highlights": [
+            {
+                "text": "intrinsically linked to the wellbeing of human societies",
+                "type": "vocabulary",
+                "explanation": "The phrase demonstrates nuanced understanding of the interconnectedness between wildlife and human development.",
+                "example": "Public health is intrinsically linked to environmental cleanliness."
+            },
+            {
+                "text": "protecting wildlife is not a luxury but a necessity",
+                "type": "phrase",
+                "explanation": "Strong contrastive structure used persuasively to reinforce the argument.",
+                "example": "Access to clean water is not a luxury but a basic human right."
+            },
+            {
+                "text": "environmental degradation often exacerbates social issues",
+                "type": "vocabulary",
+                "explanation": "Academic phrasing linking environment and society convincingly.",
+                "example": "Poor urban planning exacerbates traffic congestion and pollution."
+            },
+            {
+                "text": "creating a ripple effect of positive outcomes across sectors",
+                "type": "structure",
+                "explanation": "Metaphorical and structured phrase adds sophistication to argument.",
+                "example": "Investing in early education creates a ripple effect of long-term social benefits."
+            },
+            {
+                "text": "Sustainable development cannot occur without preserving the ecosystems upon which we all depend.",
+                "type": "grammar",
+                "explanation": "Complex sentence with conditional clause showing high-level grammar control.",
+                "example": "Economic growth cannot be achieved without addressing climate resilience."
+            }
+        ]
+    },
+    {
+        "id": "task2-environment-fuel-price",
+        "taskType": "task2",
+        "question": "Some people think the best way to solve global environmental problems is to increase the cost of fuel. To what extent do you agree or disagree?",
+        "answer": "In response to growing global environmental challenges, such as air pollution and climate change, some people argue that increasing the cost of fuel is the most effective solution. While this approach may reduce vehicle usage and curb carbon emissions to some extent, I believe that relying solely on this strategy is insufficient and potentially inequitable. A more comprehensive solution requires investment in green alternatives and policy reforms.\n\nRaising fuel prices can serve as a short-term deterrent to excessive fossil fuel consumption. Higher fuel costs may encourage individuals to switch to public transportation, reduce unnecessary travel, or adopt energy-efficient vehicles. For example, countries like Norway, which impose high fuel taxes, have seen significant adoption of electric vehicles. Thus, economic disincentives can drive behavioral change, especially in urban areas where alternatives exist.\n\nHowever, relying heavily on fuel price hikes disproportionately affects low-income populations who may not have access to clean energy alternatives or public transport infrastructure. In rural and developing regions, people depend on fuel for daily survival—whether for transportation, farming, or cooking. Moreover, environmental issues stem from a wide array of sources including industrial emissions, deforestation, and plastic waste. Therefore, increasing fuel prices addresses only a fraction of the broader environmental crisis.\n\nIn conclusion, while increasing the cost of fuel can contribute to reducing emissions, it is not the most effective or fair solution to global environmental problems. A holistic approach—combining renewable energy investment, public transit expansion, environmental regulation, and global cooperation—is essential for long-term and equitable sustainability.",
+        "analysis": "This essay takes a clear position, acknowledges opposing viewpoints, and offers a nuanced discussion. Each argument is supported with real-world examples and logical reasoning. The vocabulary is advanced, grammar is varied and accurate, and transitions are smooth. These elements together create a strong Band 9-level essay.",
+        "highlights": [
+            {
+                "text": "economic disincentives can drive behavioral change",
+                "type": "vocabulary",
+                "explanation": "Uses academic economic terminology to explain a concept concisely.",
+                "example": "Taxing sugary drinks is an economic disincentive to reduce consumption."
+            },
+            {
+                "text": "relying solely on this strategy is insufficient and potentially inequitable",
+                "type": "structure",
+                "explanation": "Expresses limitation and fairness issue in a balanced, advanced structure.",
+                "example": "Relying solely on remote education is insufficient and inequitable for rural children."
+            },
+            {
+                "text": "addresses only a fraction of the broader environmental crisis",
+                "type": "phrase",
+                "explanation": "Highlights the scope of the issue with a metaphorical expression.",
+                "example": "This initiative addresses only a fraction of the housing crisis."
+            },
+            {
+                "text": "A holistic approach—combining renewable energy investment, public transit expansion, environmental regulation, and global cooperation",
+                "type": "structure",
+                "explanation": "Uses parallel structure and strong academic vocabulary to list components of a solution.",
+                "example": "A holistic diet combines balanced nutrition, physical activity, and mental wellness."
+            },
+            {
+                "text": "proportionately affects low-income populations",
+                "type": "vocabulary",
+                "explanation": "Demonstrates awareness of socioeconomic equity in policy impact.",
+                "example": "Inflation disproportionately affects low-income households."
+            }
+        ]
+    },
+    {
+        "id": "task2-car-free-day-pollution",
+        "taskType": "task2",
+        "question": "Some people think an international car-free day is an effective way to reduce air pollution. Others think there are more effective ways do to this. Discuss both sides and give your opinion.",
+        "answer": "Air pollution has become one of the most pressing environmental challenges in modern society. While some believe that declaring an international car-free day can effectively reduce air pollution, others argue that more comprehensive and long-term strategies are required. This essay will examine both views before concluding that although symbolic, car-free days are insufficient without broader policy measures.\n\nAdvocates of a global car-free day contend that it raises public awareness and encourages environmentally conscious behavior. Temporarily removing millions of vehicles from roads can result in a noticeable drop in emissions and air pollutants, particularly in urban areas. For instance, during car-free initiatives in Paris and Bogotá, air quality improved significantly within hours. Such events also stimulate interest in alternative modes of transportation like cycling, walking, or public transit.\n\nHowever, critics argue that a single day without cars has a negligible long-term impact. Once the event concludes, most people revert to their regular driving habits. Moreover, a one-day initiative does not address deeper issues such as industrial emissions, outdated vehicle standards, and urban sprawl. More effective strategies include investing in electric public transport, enforcing emissions regulations, and redesigning cities to reduce reliance on cars altogether. These systemic changes offer a lasting reduction in air pollution rather than a symbolic gesture.\n\nIn conclusion, while international car-free days serve as useful awareness campaigns, they do not offer a permanent solution to air pollution. To tackle this issue meaningfully, governments must implement sustainable urban planning, stricter environmental policies, and cleaner transportation systems. Only then can we achieve long-term improvement in air quality.",
+        "analysis": "This essay provides a balanced discussion, clearly presenting both perspectives and supporting them with examples. The language is formal, vocabulary is advanced, and transitions are smooth. The opinion is logically derived and well-supported, fulfilling all Band 9 criteria.",
+        "highlights": [
+            {
+                "text": "raises public awareness and encourages environmentally conscious behavior",
+                "type": "vocabulary",
+                "explanation": "Effective phrase to show impact on public attitudes.",
+                "example": "Climate campaigns raise public awareness and drive behavioral change."
+            },
+            {
+                "text": "stimulate interest in alternative modes of transportation",
+                "type": "vocabulary",
+                "explanation": "Shows how events can inspire broader change in behavior.",
+                "example": "Bike-to-work days stimulate interest in cycling over driving."
+            },
+            {
+                "text": "a negligible long-term impact",
+                "type": "vocabulary",
+                "explanation": "Precise academic phrase expressing minimal effectiveness.",
+                "example": "The new policy had a negligible long-term impact on poverty."
+            },
+            {
+                "text": "systemic changes offer a lasting reduction",
+                "type": "structure",
+                "explanation": "Highlights deeper solutions with a strong cause-effect connection.",
+                "example": "Systemic education reform offers a lasting reduction in inequality."
+            },
+            {
+                "text": "only then can we achieve long-term improvement",
+                "type": "grammar",
+                "explanation": "Inversion used for emphasis, a feature of high-level writing.",
+                "example": "Only then can we build a truly inclusive society."
+            }
+        ]
+    },
+    {
+        "id": "task2-global-warming-vs-deforestation",
+        "taskType": "task2",
+        "question": "While some people consider global warming to be the most pressing environmental problem which we have at the moment, others believe that deforestation has a more devastating impact on our world. Discuss both sides and give your opinion.",
+        "answer": "The environment is facing numerous threats, among which global warming and deforestation are seen as particularly critical. Some argue that global warming, with its far-reaching effects on climate and sea levels, poses the greatest danger. Others contend that deforestation is even more harmful due to its direct impact on biodiversity and ecological balance. This essay will explore both perspectives before presenting the view that global warming is the more urgent issue.\n\nProponents of the global warming argument highlight the widespread and interconnected consequences it causes. Rising global temperatures have led to more frequent natural disasters such as hurricanes, droughts, and floods, severely affecting millions of lives and economies. Additionally, melting polar ice contributes to rising sea levels, threatening coastal cities worldwide. The global scale of this issue means it has implications not just for human health and agriculture but also for international security and economic stability.\n\nConversely, others believe that deforestation is more alarming because it directly leads to habitat loss, species extinction, and disruption of the water cycle. Forests also serve as carbon sinks, absorbing vast amounts of CO₂. Their removal, therefore, accelerates the pace of global warming itself. In countries like Brazil and Indonesia, large-scale deforestation has already caused irreversible damage to ecosystems, pushing countless species to the brink of extinction and affecting local communities who rely on forests for survival.\n\nIn conclusion, while deforestation undoubtedly contributes significantly to environmental degradation, global warming is a more comprehensive and far-reaching problem. It is not only intensified by deforestation but also driven by numerous other human activities. Tackling global warming requires coordinated international efforts and should, therefore, be treated as the foremost environmental challenge of our time.",
+        "analysis": "The essay thoroughly discusses both viewpoints and provides a clear, justified opinion. It uses formal academic language, relevant examples, and logical progression. The conclusion effectively synthesizes the main arguments, fulfilling the criteria for a Band 9 score.",
+        "highlights": [
+            {
+                "text": "far-reaching effects on climate and sea levels",
+                "type": "vocabulary",
+                "explanation": "Shows the wide impact of global warming in formal terms.",
+                "example": "The new trade policies had far-reaching effects on regional economies."
+            },
+            {
+                "text": "carbon sinks, absorbing vast amounts of CO₂",
+                "type": "phrase",
+                "explanation": "Demonstrates precise scientific understanding.",
+                "example": "Oceans and forests act as carbon sinks, mitigating climate change."
+            },
+            {
+                "text": "pushing countless species to the brink of extinction",
+                "type": "vocabulary",
+                "explanation": "Strong emotional and descriptive phrase to emphasize urgency.",
+                "example": "Pollution is pushing marine species to the brink of extinction."
+            },
+            {
+                "text": "a more comprehensive and far-reaching problem",
+                "type": "structure",
+                "explanation": "Effective for comparative analysis in conclusion.",
+                "example": "Obesity is a more comprehensive and far-reaching problem than just a health issue."
+            },
+            {
+                "text": "coordinated international efforts",
+                "type": "vocabulary",
+                "explanation": "Collocation indicating large-scale cooperation, suitable for formal writing.",
+                "example": "Coordinated international efforts are needed to combat cybercrime."
+            }
+        ]
+    },
+    {
+        "id": "task2-parental-pressure-on-children",
+        "taskType": "task2",
+        "question": "Nowadays parents put too much pressure on their children to succeed. What is the reason for doing this? Is this a negative or positive development?",
+        "answer": "In today’s competitive world, many parents exert immense pressure on their children to achieve academic and career success. This trend stems from rising societal expectations and concerns about future stability. While such intentions may be rooted in care, I believe that placing excessive demands on children is largely a negative development due to its impact on mental health and overall well-being.\n\nOne key reason parents push their children so hard is the increasingly competitive nature of modern society. With limited job opportunities and high academic standards, parents feel the need to prepare their children to outperform their peers from an early age. Furthermore, many parents project their unfulfilled ambitions onto their children, hoping they will achieve what they themselves could not. Cultural factors, especially in countries where educational success is seen as a status symbol, also reinforce this pressure.\n\nThis pressure can have serious negative consequences. Children subjected to constant stress may develop anxiety, depression, or a fear of failure. Instead of developing a love for learning or a sense of purpose, they may begin to associate success only with external validation. For instance, many students in high-pressure environments report burnout before they even complete their schooling. Such environments hinder creativity and emotional growth, both of which are essential for holistic development.\n\nIn conclusion, although parents may push their children to succeed with good intentions, the pressure they apply often leads to detrimental psychological and emotional outcomes. It is vital that parents strike a balance between guiding their children and allowing them the freedom to explore their own passions and paths.",
+        "analysis": "This essay effectively identifies the reasons for excessive parental pressure and presents a clear argument on its negative consequences. Each paragraph is logically organized and supports the thesis well, using precise vocabulary and real-world examples. The tone is formal and academic, suitable for IELTS Band 9.",
+        "highlights": [
+            {
+                "text": "exert immense pressure on their children",
+                "type": "phrase",
+                "explanation": "This phrase is commonly used in academic writing to describe significant psychological or emotional influence.",
+                "example": "Managers often exert immense pressure on employees during financial reviews."
+            },
+            {
+                "text": "project their unfulfilled ambitions onto their children",
+                "type": "vocabulary",
+                "explanation": "Strong vocabulary that captures a psychological behavior with precision.",
+                "example": "Some parents project their unfulfilled ambitions onto their children through strict career expectations."
+            },
+            {
+                "text": "associate success only with external validation",
+                "type": "vocabulary",
+                "explanation": "Reflects a sophisticated understanding of intrinsic vs extrinsic motivation.",
+                "example": "Students should not associate success only with external validation like grades or praise."
+            },
+            {
+                "text": "strike a balance between guiding their children and allowing them the freedom",
+                "type": "structure",
+                "explanation": "Balanced sentence structure effectively summarizing a nuanced viewpoint.",
+                "example": "Effective parenting strikes a balance between discipline and autonomy."
+            }
+        ]
+    },
+    {
+        "id": "task2-city-vs-countryside-childhood",
+        "taskType": "task2",
+        "question": "Some people think it is better for children to grow up in the city, while others think that life in the countryside is more suitable. What are the advantages and disadvantages of both places?",
+        "answer": "Where children should be raised—urban cities or rural countryside—remains a topic of ongoing debate. While cities offer better infrastructure and educational opportunities, the countryside provides a healthier and more peaceful environment. This essay will explore the benefits and drawbacks of both settings to determine which is more conducive to a child’s upbringing.\n\nGrowing up in a city has several advantages for children. Cities typically offer a wide range of educational institutions, extracurricular facilities, and access to healthcare. Moreover, urban environments expose children to diverse cultures and advanced technologies, preparing them for competitive global careers. However, the disadvantages include high levels of pollution, noise, and limited access to open spaces. Children in cities may also experience social pressure and fast-paced lifestyles that can lead to stress.\n\nConversely, rural areas offer a quieter, safer, and more natural upbringing. Children in the countryside are more likely to engage with nature, enjoy cleaner air, and benefit from a slower pace of life that promotes mental well-being. Additionally, community bonds in rural areas tend to be stronger, fostering social responsibility. However, limited access to quality education, healthcare, and modern amenities can hinder overall development. The lack of exposure to diverse cultures and innovation might also put children at a disadvantage in globalized contexts.\n\nIn conclusion, both urban and rural environments offer unique benefits and present notable challenges. While cities provide access to better resources and opportunities, the countryside supports a healthier and more emotionally balanced upbringing. Ultimately, the best setting depends on a family’s priorities and the child’s specific needs.",
+        "analysis": "This essay provides a well-balanced discussion of the pros and cons of raising children in both city and countryside settings. It uses precise vocabulary and topic-specific details while maintaining coherence and cohesion throughout. The conclusion clearly synthesizes the argument without taking an overly biased stance.",
+        "highlights": [
+            {
+                "text": "ongoing debate",
+                "type": "phrase",
+                "explanation": "A commonly used academic phrase to introduce a contentious topic.",
+                "example": "The effectiveness of remote education remains an ongoing debate among experts."
+            },
+            {
+                "text": "preparing them for competitive global careers",
+                "type": "vocabulary",
+                "explanation": "Strong, specific phrase to express the long-term benefits of city life.",
+                "example": "International schools focus on preparing students for competitive global careers."
+            },
+            {
+                "text": "community bonds in rural areas tend to be stronger",
+                "type": "grammar",
+                "explanation": "Uses passive voice appropriately and highlights social cohesion.",
+                "example": "In small towns, community bonds tend to be stronger than in cities."
+            },
+            {
+                "text": "a healthier and more emotionally balanced upbringing",
+                "type": "structure",
+                "explanation": "Balanced sentence summarizing the advantages of countryside living.",
+                "example": "Many believe that a rural lifestyle offers a healthier and more emotionally balanced upbringing."
+            }
+        ]
+    },
+    {
+        "id": "task2-grandchildren-grandparents-relationship",
+        "taskType": "task2",
+        "question": "In many modern societies, grandchildren rarely spend any quality time with their grandparents. What do you think are the consequences of this?",
+        "answer": "In today's fast-paced world, the traditional bond between grandparents and grandchildren is gradually weakening. Technological distractions, nuclear family structures, and busy lifestyles are some of the reasons why younger generations spend little time with their elders. This essay will explore the consequences of this trend, particularly in terms of cultural continuity and emotional development.\n\nOne of the major consequences of limited interaction between grandchildren and grandparents is the loss of cultural heritage. Grandparents often act as custodians of family traditions, moral values, and life experiences that can profoundly shape a child’s character. Without these intergenerational connections, children may grow up without a strong sense of identity or respect for cultural practices. This can lead to a generational disconnect, where important life lessons and wisdom are not passed down.\n\nAnother significant outcome is the emotional and psychological impact on both generations. Grandparents often provide unconditional love, patience, and storytelling that foster emotional stability in children. In return, spending time with grandchildren helps older adults combat loneliness and depression, promoting mental well-being. The lack of this relationship can leave children emotionally undernourished and seniors feeling isolated and undervalued by society.\n\nIn conclusion, the decline in quality time between grandchildren and grandparents can result in the erosion of cultural identity and diminished emotional support for both age groups. Encouraging intergenerational bonding is essential for building stronger families and more empathetic communities.",
+        "analysis": "This essay provides a clear and insightful analysis of the consequences of reduced intergenerational interaction. It is logically organized with balanced paragraphs that explore cultural, emotional, and social impacts. The vocabulary is advanced and varied, and the tone is formal and academic, meeting the criteria for a high Band 9 score.",
+        "highlights": [
+            {
+                "text": "custodians of family traditions",
+                "type": "vocabulary",
+                "explanation": "A metaphor that powerfully conveys the role grandparents play in preserving cultural identity.",
+                "example": "Elders in tribal communities often serve as custodians of family traditions."
+            },
+            {
+                "text": "intergenerational connections",
+                "type": "phrase",
+                "explanation": "Formal phrase describing relationships between age groups.",
+                "example": "Intergenerational connections foster empathy and understanding between the young and old."
+            },
+            {
+                "text": "emotionally undernourished",
+                "type": "vocabulary",
+                "explanation": "Evocative adjective describing the emotional deprivation children may face.",
+                "example": "Without parental attention, many children grow up emotionally undernourished."
+            },
+            {
+                "text": "building stronger families and more empathetic communities",
+                "type": "structure",
+                "explanation": "A balanced and idealistic concluding phrase that enhances the positive outlook.",
+                "example": "Programs that promote volunteering are key to building stronger families and more empathetic communities."
+            }
+        ]
+    },
+    {
+        "id": "task2-generational-gap-activities",
+        "taskType": "task2",
+        "question": "Nowadays, it seems that different generations within the family spend less time doing activities together. Why is that? Is it a positive or negative development?",
+        "answer": "In modern society, it is increasingly observed that family members from different generations spend less time engaging in shared activities. This trend can be attributed to changing lifestyles, technological distractions, and shifts in cultural values. While it may offer certain individual freedoms, I believe this is largely a negative development with long-term social consequences.\n\nThe primary reason for this growing separation is the fast-paced nature of contemporary life. Younger generations are often preoccupied with academic and professional responsibilities, while older members may prefer quieter or more traditional pastimes. Moreover, the widespread use of personal technology such as smartphones and streaming platforms has fostered solitary entertainment habits. These differences in interests and routines reduce opportunities for cross-generational bonding through shared experiences.\n\nThis separation within families can lead to a weakening of emotional ties and a loss of cultural continuity. Activities such as cooking together, storytelling, or celebrating festivals as a family not only create lasting memories but also foster mutual understanding and respect. Without these interactions, younger members may grow up disconnected from their roots, while elders may feel isolated and undervalued. The decline in such familial cohesion can erode the sense of support and belonging that traditionally characterizes strong family units.\n\nIn conclusion, the decline in shared activities between generations is mainly due to lifestyle changes and technological habits. While some may argue it allows for greater independence, I strongly believe the overall effect is negative, as it undermines familial bonds and cultural identity.",
+        "analysis": "This essay presents a well-structured response to the prompt, discussing both the reasons for the trend and clearly presenting a stance on its implications. The vocabulary is precise and academic, and the argument flows logically. Clear topic sentences and effective examples support the main ideas, aligning it with a high Band 9 score.",
+        "highlights": [
+            {
+                "text": "technological distractions",
+                "type": "vocabulary",
+                "explanation": "Concise phrase referring to modern devices as a source of distraction from traditional family interactions.",
+                "example": "Children are often immersed in technological distractions like gaming and social media."
+            },
+            {
+                "text": "cross-generational bonding",
+                "type": "phrase",
+                "explanation": "A strong academic phrase describing connection between different age groups within a family.",
+                "example": "Community centers can encourage cross-generational bonding through joint activities."
+            },
+            {
+                "text": "cultural continuity",
+                "type": "vocabulary",
+                "explanation": "Refers to the passing on of traditions and values from one generation to another.",
+                "example": "Festivals and rituals play a vital role in maintaining cultural continuity."
+            },
+            {
+                "text": "familial cohesion",
+                "type": "vocabulary",
+                "explanation": "Refers to emotional closeness and unity within a family.",
+                "example": "Shared meals and traditions often strengthen familial cohesion."
+            }
+        ]
+    },
+    {
+        "id": "task2-children-tv-learning",
+        "taskType": "task2",
+        "question": "Children can learn effectively by watching television. Therefore they should be encouraged to watch television regularly at home and at school. To what extent do you agree or disagree?",
+        "answer": "Television has long been regarded as a powerful tool for education and entertainment. Some believe that children should be encouraged to watch television regularly at home and in school due to its potential for effective learning. While television can certainly supplement traditional teaching methods, I disagree that it should be promoted as a primary or regular learning activity, especially without supervision.\n\nIt is true that television can be an engaging medium for conveying educational content. Channels such as National Geographic or educational programs tailored for young audiences can enhance their understanding of science, history, or languages. Visual storytelling helps children grasp complex topics in a more intuitive and memorable way compared to textbook learning. For example, animated documentaries about wildlife or historical events can bring abstract concepts to life, fostering curiosity and retention.\n\nHowever, encouraging regular television viewing as a norm comes with significant drawbacks. Excessive screen time is linked to health issues such as eye strain, reduced physical activity, and even impaired cognitive development. Moreover, not all programs are educational—unsupervised viewing can expose children to inappropriate content or advertisements promoting consumerism. In school environments, passive consumption of information through screens may also reduce the development of critical thinking and interpersonal skills fostered through active, interactive learning methods.\n\nIn conclusion, although television can be a valuable educational aid when used selectively and under supervision, I strongly disagree with the idea of encouraging children to watch it regularly at home and in school. The risks of excessive screen exposure outweigh the benefits, and it should remain a supplementary tool rather than a routine educational method.",
+        "analysis": "This essay presents a balanced and logical argument, supporting both sides with specific examples and strong reasoning. The opinion is clearly stated and reinforced throughout. Vocabulary is formal, and sentence structures are varied and effective, making it well-suited for a Band 9 score.",
+        "highlights": [
+            {
+                "text": "Visual storytelling helps children grasp complex topics in a more intuitive and memorable way",
+                "type": "phrase",
+                "explanation": "Shows how TV can aid learning through visual engagement, which is persuasive and detailed.",
+                "example": "Visual storytelling helps children grasp complex topics in a more intuitive and memorable way, especially in science education."
+            },
+            {
+                "text": "passive consumption of information",
+                "type": "vocabulary",
+                "explanation": "An advanced phrase that criticizes learning that does not involve interaction or critical thinking.",
+                "example": "Passive consumption of information can hinder the development of problem-solving skills in children."
+            },
+            {
+                "text": "used selectively and under supervision",
+                "type": "structure",
+                "explanation": "This conditional phrase adds balance, acknowledging benefits while cautioning about risks.",
+                "example": "Television can be educational if used selectively and under supervision by teachers or parents."
+            },
+            {
+                "text": "supplementary tool rather than a routine educational method",
+                "type": "phrase",
+                "explanation": "Highlights the nuanced position of the writer, showing critical thinking and lexical precision.",
+                "example": "Digital media should be treated as a supplementary tool rather than a routine educational method."
+            }
+        ]
+    },
+    {
+        "id": "task2-gm-foods-population",
+        "taskType": "task2",
+        "question": "With a growing world population one of the most pressing issues is that of feeding such a large number of people. Some people think that GM foods offer a viable solution to this problem. To what extent do you agree or disagree?",
+        "answer": "With a rapidly growing global population, ensuring food security has become one of the most critical challenges of our time. Some believe that genetically modified (GM) foods offer a viable solution to this problem. While concerns about ethics and environmental impact exist, I strongly agree that GM foods have the potential to sustainably feed large populations.\n\nGM crops can significantly increase yields by enhancing resistance to pests, drought, and diseases. For instance, GM wheat and rice have been engineered to thrive in arid regions, ensuring food availability in areas prone to climate stress. Moreover, biofortified crops—such as vitamin‑A enriched “Golden Rice”—can help combat malnutrition in developing countries by providing essential nutrients that are otherwise deficient in local diets.\n\nCritics argue that GM foods carry risks related to biodiversity loss, cross‑pollination, and long‑term health effects. However, stringent regulation and rigorous testing can mitigate these concerns. International bodies and research institutions continuously monitor GM crop trials, ensuring transparency and safety standards. Additionally, combining GM agriculture with sustainable practices—such as crop rotation and organic farming—can preserve ecological balance.\n\nIn conclusion, while ethical and environmental concerns about GM foods persist, their potential to significantly increase crop yields and combat nutritional deficiencies makes them a beneficial tool in addressing the global food crisis. Therefore, I believe GM foods are a crucial part of a multifaceted strategy to feed our growing population.",
+        "analysis": "This essay takes a clear pro‑GM stance, provides balanced arguments, acknowledges concerns, and supports claims with examples. Vocabulary and cohesion are excellent, fulfilling Band 9 criteria.",
+        "highlights": [
+            {
+                "text": "significantly increase yields by enhancing resistance",
+                "type": "vocabulary",
+                "explanation": "Precise collocation describing agricultural benefits.",
+                "example": "Modern irrigation systems significantly increase yields by conserving water."
+            },
+            {
+                "text": "biofortified crops such as vitamin‑A enriched Golden Rice",
+                "type": "phrase",
+                "explanation": "Specific technical example demonstrating nutritional benefits.",
+                "example": "Biofortified foods such as iron‑rich beans can reduce anemia."
+            },
+            {
+                "text": "stringent regulation and rigorous testing",
+                "type": "structure",
+                "explanation": "Balanced phrase emphasising safeguards against risk.",
+                "example": "Pharmaceuticals require stringent regulation and rigorous testing."
+            },
+            {
+                "text": "multifaceted strategy to feed our growing population",
+                "type": "structure",
+                "explanation": "Summative structure showing complexity and coherence.",
+                "example": "We need a multifaceted strategy to reduce global inequality."
+            }
+        ]
+    },
+    {
+        "id": "task2-fast-food-education",
+        "taskType": "task2",
+        "question": "Some people think that educating people about the problems of eating too much fast food has no effect and that other measures should be taken to tackle this issue. What is your opinion?",
+        "answer": "The proliferation of fast food consumption has raised health concerns such as obesity and heart disease. Some argue that public education about healthy eating is ineffective, and that stricter measures are needed. In my view, while awareness campaigns are necessary, government policy and industry regulation are equally essential.\n\nAwareness programs—such as nutritional labels, school workshops, and public service campaigns—can gradually change behaviour. For example, school-based programs that teach children about sugar and fat content have been shown to reduce fast food intake. Yet, without structural support, these initiatives often lack sufficient impact.\n\nTo reinforce education, policymakers should tax unhealthy fast food, restrict junk food marketing to children, and subsidise healthier options. Cities that introduced sugar taxes and banned junk food ads during children’s programming have witnessed reductions in obesity rates. Such combined approaches ensure that individuals receive knowledge and real incentives to choose healthier alternatives.\n\nIn conclusion, while educating the public about the dangers of fast food is beneficial, education alone is insufficient. Only by combining awareness with policy measures like taxation and marketing restrictions can societies achieve meaningful improvements in dietary habits.",
+        "analysis": "This essay acknowledges the value of education but clearly argues for additional regulatory measures. It uses concrete examples and strong policy vocabulary, achieving cohesion and clarity characteristic of a Band 9 essay.",
+        "highlights": [
+            {
+                "text": "gradually change behaviour",
+                "type": "phrase",
+                "explanation": "Effective way to describe long‑term educational impact.",
+                "example": "Recycling campaigns can gradually change behaviour if sustained over time."
+            },
+            {
+                "text": "restrict junk food marketing to children",
+                "type": "vocabulary",
+                "explanation": "Concise policy phrasing that identifies a specific intervention.",
+                "example": "Governments may restrict alcohol marketing to underage audiences."
+            },
+            {
+                "text": "subsidise healthier options",
+                "type": "structure",
+                "explanation": "Parallel phrasing showing supportive policy measures.",
+                "example": "Authorities should subsidise renewable energy and energy‑saving technologies."
+            },
+            {
+                "text": "meaningful improvements in dietary habits",
+                "type": "phrase",
+                "explanation": "Formal expression showing real behavioural change.",
+                "example": "Urban planning can lead to meaningful improvements in air quality."
+            }
+        ]
+    },
+    {
+        "id": "task2-local-food-advantages-disadvantages",
+        "taskType": "task2",
+        "question": "People should only buy food sourced locally. What are the advantages and disadvantages of this?",
+        "answer": "There is a growing movement encouraging consumers to purchase locally sourced food. While this has certain merits, such as support for local farmers and reduced environmental impact, there are drawbacks too. This essay explores both advantages and disadvantages of exclusively buying local produce.\n\nLocally sourced food supports regional economies by keeping money within communities and supporting small-scale producers. It often ensures fresher produce with fewer emissions associated with transportation. Additionally, it reinforces food traceability and trust—buyers can know exactly where and how their food was grown.\n\nHowever, strictly buying local limits variety and may increase costs. Not all regions can produce a full range of nutritious foods year-round, leading to nutritional gaps. Prices may also be higher due to limited competition. Finally, local production may not always meet quality or safety standards, particularly in developing regions, and lack of economies of scale can hinder affordability.\n\nIn conclusion, while buying locally sourced food offers environmental and social benefits, it also has practical limitations in cost, variety, and nutritional completeness. Purchasing locally is beneficial but should be balanced with access to imported goods where necessary.",
+        "analysis": "The essay offers a balanced examination of local food policies, considering both logistical benefits and limitations. Vocabulary choice is precise and the structure is coherent, demonstrating critical thinking and meeting Band 9 expectations.",
+        "highlights": [
+            {
+                "text": "reinforces food traceability and trust",
+                "type": "vocabulary",
+                "explanation": "Highlights an often‑overlooked benefit of local sourcing.",
+                "example": "Transparency in supply chains reinforces consumer trust."
+            },
+            {
+                "text": "may increase costs due to limited competition",
+                "type": "structure",
+                "explanation": "Balanced causal phrasing identifying economic drawback.",
+                "example": "Limited imports may increase housing costs due to reduced competition."
+            },
+            {
+                "text": "lack of economies of scale can hinder affordability",
+                "type": "phrase",
+                "explanation": "Technical economic phrase clearly describing disadvantage.",
+                "example": "Small factories often lack economies of scale, driving up production costs."
+            }
+        ]
+    },
+    {
+        "id": "task2-ban-convenience-foods",
+        "taskType": "task2",
+        "question": "The government should ban convenience foods to improve public health. Do you agree?",
+        "answer": "Convenience foods—ready‑to‑eat meals and fast snacks—have grown in popularity, but often at the cost of public health. Some argue that governments should ban these products to improve national health. While the health benefits of such a ban are tempting, I disagree that prohibition is a practical or effective solution.\n\nProponents contend that banning convenience foods would reduce consumption of high‑salt, high‑sugar, and highly processed products, thereby lowering rates of obesity, diabetes, and heart disease. Limiting access could prompt consumers to cook fresh meals at home, fostering healthier eating habits and reducing healthcare costs.\n\nHowever, enforcing a ban raises serious concerns about personal freedom, economic impact, and black‑market emergence. Convenience foods provide affordable, quick options for busy households. Rather than a blanket prohibition, governments should regulate nutritional labeling, limit advertising to children, and incentivise healthier product reformulation by food companies to achieve better results without infringing personal choice.\n\nIn conclusion, although banning convenience foods could yield health benefits, the practical challenges and ethical implications make it unfeasible. A more balanced and effective approach involves regulation, consumer education, and industry accountability.",
+        "analysis": "The essay identifies both the potential benefits and limitations of banning convenience foods. It argues coherently for regulation over prohibition, using precise policy language and realistic reasoning—meeting Band 9 criteria in task response, coherence, lexical resource, and grammar.",
+        "highlights": [
+            {
+                "text": "limit advertising to children",
+                "type": "vocabulary",
+                "explanation": "Concise policy wording for effective public health interventions.",
+                "example": "Many countries limit alcohol advertising to protect minors."
+            },
+            {
+                "text": "incentivise healthier product reformulation",
+                "type": "phrase",
+                "explanation": "Advanced phrase specifying a regulatory alternative to bans.",
+                "example": "Governments should incentivise healthier product reformulation in food industries."
+            },
+            {
+                "text": "personal freedom and economic impact",
+                "type": "structure",
+                "explanation": "Balanced list showing ethical and practical concerns.",
+                "example": "Policymakers must consider personal freedom and economic impact in legislation."
+            }
+        ]
+    },
+    {
+        "id": "task2-obesity-responsibility",
+        "taskType": "task2",
+        "question": "Some people think that the increase in the number of obese people should be the responsibility of the government, while others think it should be the responsibility of individuals. Discuss both sides and give your opinion.",
+        "answer": "The rise in obesity has prompted debate over whether it is the government's responsibility to address the issue or whether individuals should take charge of their own health. While personal choices play a significant role, I believe that government intervention is essential to create a supportive environment for healthy lifestyles.\n\nThose advocating personal responsibility argue that adults should control their diet and exercise habits. Individuals can choose healthy options, limit fast food consumption, and remain physically active. Placing responsibility on the individual promotes autonomy and accountability and encourages behavioural change.\n\nHowever, the government can shape choices through public policy. Initiatives such as sugar taxes, mandatory food labeling, bans on junk food advertising to children, and subsidies for healthier food choices have proven effective. For instance, countries implementing sugar taxes have seen reductions in sugary drink consumption and lower obesity levels. Public education campaigns, school nutrition standards, and better urban planning to encourage walking are also critical.\n\nIn conclusion, although individuals must take responsibility for their lifestyle choices, government leadership is necessary to ensure that healthy options are accessible, affordable, and encouraged. A joint approach is vital to effectively tackle the obesity epidemic.",
+        "analysis": "This essay balances personal and governmental responsibilities and provides concrete policy examples. It uses clear logical reasoning, advanced vocabulary, and coherent structure—all hallmarks of a Band 9 response.",
+        "highlights": [
+            {
+                "text": "accessible, affordable, and encouraged",
+                "type": "structure",
+                "explanation": "Parallel adjective list showing polished writing style.",
+                "example": "Schools should be accessible, affordable, and encouraged by communities."
+            },
+            {
+                "text": "mandatory food labeling",
+                "type": "vocabulary",
+                "explanation": "Common public health policy phrase used accurately.",
+                "example": "Mandatory warning labels on tobacco have reduced smoking rates."
+            },
+            {
+                "text": "public policy.shape choices",
+                "type": "phrase",
+                "explanation": "Expresses the strategic role of government in influencing behaviour.",
+                "example": "Zoning laws can shape choices about housing and transportation."
+            }
+        ]
     }
 ]
