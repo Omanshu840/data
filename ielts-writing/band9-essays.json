@@ -1933,5 +1933,13 @@
                 "example": "Zoning laws can shape choices about housing and transportation."
             }
         ]
+    },
+    {
+        "id": "task1-1",
+        "taskType": "task1",
+        "question": "The diagram shows how rainwater is collected for the use of drinking water in an Australian town.",
+        "answer": "The diagram illustrates how an Australian town processes rainwater to use as drinking water.\n\nOverall, rainwater is collected from houses and then passes through a filter into storage where it is then treated with chemicals to make it fit for human consumption.\n\nInitially, the rain which falls on the rooftop is collected by the gutter and then runs down the pipe at the side of the house into the drain at the bottom. Each house collects rainwater in this way and the rainwater is then passed along underground drains to the water filter.\n\nThe rainwater passes through the water filter to remove any impurities. Once it has been filtered, it continues along the pipes to a storage tank. From this point, the water goes from storage to the water treatment. At this stage of the process, the water is treated with chemicals in order to make it fit for consumption. When the water is ready for drinking, it travels along pipes that lead back into the houses in the town where people can use the water for daily consumption.",
+        "analysis": "",
+        "highlights": []
     }
 ]
